@@ -1,0 +1,11 @@
+NES Virus Cleaner
+by Sly Dog Studios
+
+NES Virus Cleaner is pretty much a spoof of the NES Cleaning Kit. That thing barely helped clean the NES, just as NES Virus Cleaner doesn’t do much for removing “viruses” from your NES.
+You guide Clik, the hero, around inside your NES and grab viruses in the various spots they are placed.
+The ultimate goal is to get to the lockout chip and destroy Virii, the main virus.
+The obstacles in the game are electric bolts, electric sparks, disappearing blocks, a homing missile system, and of course, time.
+If you run out of time on a certain level, the game is over. If you get hit by an enemy, you will respawn at the point where you picked up the last virus.
+
+https://slydogstudios.org/
+https://www.youtube.com/watch?v=ObuhuTASzUA

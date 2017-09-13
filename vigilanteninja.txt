@@ -1,0 +1,99 @@
+Purple Cape Man! Vigilante Ninja
+by dougeff
+
+A new NES game (2015), action platform jumper.
+Jump, punch, throwing stars. 4 exciting levels and 4 bosses to fight. Dodge bullets, avoid spikes. 
+
+Controls:
+A - Jump
+B - Punch/Throw
+Down - Duck
+L/R - move
+
+Start - only for Title screen
+
+https://www.youtube.com/watch?v=CO2WSSW5hu8
+https://www.youtube.com/watch?v=HBI7ueI1Nmw
+
+
+
+
+
+Purple Cape Man, Vigilante Ninja, 2015
+ - NES rom for emulator, programmed by Doug Fraker
+dougfraker at gmail dot com
+
+updated 7-22-2015, now marked "d"
+-fixed a few bugs, like glitches when dying, head showing at bottom when
+ jump too high
+-now can hit enemies on the far right of the screen
+-more compatable with other emulators
+-narrowed 2 obstacles that I felt were nearly impossible to avoid
+
+
+updated 5-31-2015, now marked "c"
+-doubled horizontal speed
+-improved jump, more like arch and slightly further into top of screen
+-improved punch, hit extended a few pixel
+-fixed sound fx glitch
+-fixed a rare graphic glitch
+-moved hearts down a bit, so it can be seen better on actual tv
+-made levels harder
+-slight graphics change, including font
+
+
+
+A - Jump
+B - Punch/Throw
+Down - Duck
+L/R - move
+
+Start - only for Title screen
+
+
+
+
+Feel free to edit the code, to create your own game. Use a hex editor.
+
+The level data, for bricks, is listed at $3010, $3810. The first for spikes and enemies and pickups. The second for bricks.
+
+Each Level is divided into 16 "rooms", and each room divided into 16 columns. Thus, one page ($100) per level. Each byte represents one column of info.
+
+Spike/Enemy/Pickup metatile compresses to...(binary)
+
+0000 0000	x
+01		enemy spawn
+10		throwing weapon pickup
+11		energy refill
+  00 ----	x
+  01 ----	on floor
+  10 ----	on lower platform
+  11 ----	on upper platform
+
+0000 1000	draws zigzag on upper platform
+0000 0100	draws zigzag on lower platform
+0000 0010	draws zigzag on the floor
+0000 0001	draws spikes on the floor
+
+So, $50 will spawn an enemy on the floor. Note, the code only allows 2 enemies to be on the screen at the same time, any more than that it will not spawn.
+
+For example... $09 will draw a high zigzag and a floor spike.
+
+Brick metatile compresses to...(binary)
+
+1000 0000	draws 2 bricks at top
+0100 0000	draws 2 bricks near top
+0010 0000	draws upper platform
+0001 0000	draws 2 bricks mid
+0000 1000	draws 2 bricks mid
+0000 0100	draws lower platform
+0000 0010	draws 2 bricks at 2 from bottom
+0000 0001	draws 2 bricks at the bottom
+
+
+Color for each level...at $665
+
+	.db $1f, $09, $08, $12	;lv 1
+	.db $1f, $08, $17, $22	;lv 2
+	.db $1f, $31, $30, $1c	;lv 3
+	.db $1f, $0a, $19, $23	;lv 4
