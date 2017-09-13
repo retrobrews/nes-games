@@ -1,0 +1,13 @@
+Dúshlán
+by Peter McQuillan
+
+It's that game with the blocks, but not being Tetris.
+Dúshlán(pronounced roughly do-slan, it's Irish for "challenge").
+The game itself is pretty fun, and is basically Tetris with various added challenges. 
+
+I had no idea what it was about other than tetris, so I gave it a russian song. 
+In the second half, the drum section is a complete ripoff of Bonetrousle.
+
+https://github.com/soiaf/Dushlan.
+http://forums.famitracker.com/viewtopic.php?f=4&t=2624&start=10#p18012
+https://www.youtube.com/watch?v=0Rq30dgAG4g

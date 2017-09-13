@@ -1,0 +1,6 @@
+CYO
+by nemesys
+
+Cyo is a simple minimal NES shooting game which is entirely designed and coded by nemesys.
+
+https://www.youtube.com/watch?v=x1ALJVXKgBU

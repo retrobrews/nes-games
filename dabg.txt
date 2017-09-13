@@ -1,0 +1,17 @@
+Double Action Blaster Guys
+by NovaSquirrel
+
+Double Action Blaster Guys is the sequel to my contribution to the 2011 compo, Forehead Block Guy.
+It's completely rewritten so it's nowhere near as buggy as FHBG was, and I took the opportunity to rewrite it with two simultaneous players in mind, hence pluralizing Guy in the title.
+
+Features:
+* Simultaneous two-player support (either player can join in at any time by pressing A+B)
+* 32 levels
+* Over a dozen enemy types, plus a final boss
+* Several types of blocks (not just solid and empty like the original FHBG)
+* 4 different level goal types
+* Level editor
+* Open source
+
+http://forums.nesdev.com/viewtopic.php?f=22&t=10325
+https://www.youtube.com/watch?v=CZo4vLEujBA

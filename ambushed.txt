@@ -1,0 +1,14 @@
+Ambushed
+by Sly Dog Studios
+
+You’re walking down the street and suddenly, from a couple of attached buildings that are across the street, you are ambushed by multiple gunmen... 
+Luckily you’re packin’ some heat! That’s the premise of this entry into the 1k Series of games. 
+Use the D-Pad to move the player’s scope around, and ‘A’ to fire. Score 99 (then +1) and you win the game.
+That’s a lot of baddies for one area! However, if a single bullet reaches you on the other side of the street, you’re a goner. Shoot them before they get to you!
+
+
+This is a series of games that are 1,024 bytes or less in size. This means all components of the game are included in the 1k; code, graphics, sound, vectors, etc. 
+These are mainly done as a challenge, because it is tough to get as much as you can within a 1k space on the NES, but it definitely helps your programming chops!
+
+https://slydogstudios.org/
+https://www.youtube.com/watch?v=q0ujsV7mrDg

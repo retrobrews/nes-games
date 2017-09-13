@@ -1,0 +1,10 @@
+Flappy Bird
+by Nioreh
+
+It's hard!! Even at easy... Doh...
+Flappy Bird is a one button game where you need to get a bird trough pipes, while not colliding with it. 
+As said there is only one button, so with this button you can give your bird some height, but the height is being reduced immediate again. 
+So you need to keep clicking and keep the correct height, which isn't easy at all.
+
+https://forums.nesdev.com/viewtopic.php?f=22&t=11425
+https://www.youtube.com/watch?v=cFsm4O00aE0

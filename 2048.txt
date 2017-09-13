@@ -1,0 +1,6 @@
+2048
+By tsone
+
+NES adaption of the game 2048 by tsone.
+
+https://www.youtube.com/watch?v=qzskGjw_tR0
