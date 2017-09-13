@@ -1,0 +1,18 @@
+Thwaite
+by Damian Yerrick
+
+A hippie guitarist who has visited your small town for years has gone rogue and launched ICBMs toward your town.
+Break out the fireworks that you had been saving for Independence Day, turn them into makeshift anti-ballistic missiles (ABMs), and shoot down the incoming missiles.
+Each of two silos starts with 15 ABMs. Place the aiming cursor in front of the incoming missile and fire an ABM to destroy it.
+Defend the town for seven nights (Sunday through Saturday) and you win!
+Screen shows cursor, missiles, balloon, MIRV, explosions, ammo, score, and time.Game play screen.
+Click to show or hide names of the game objects. You have to lead your shot a bit because it takes a split second for the ABM to arrive.
+But the explosion of an ABM is wide enough to destroy several missiles, so aim where the incoming missiles' paths are about to cross.
+Balloons and multiple independent reentry vehicle (MIRV) missiles will release a payload of multiple missiles if not shot down promptly.
+At the end of each round, the silos are refilled with ABMs: 15 each or 20 if only one silo remains.
+A destroyed silo will get rebuilt at the end of a night or once you've lasted one round with no destroyed houses.
+And if a house has been destroyed, one house will be rebuilt the next day.
+Later in the week, when more houses are gone, you need not worry about missiles aimed at wreckage.
+The game is over once both silos or all ten houses have been destroyed, or once you have survived all seven nights.
+
+https://www.youtube.com/watch?v=AM31uOstxz4

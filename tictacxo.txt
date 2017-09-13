@@ -1,0 +1,7 @@
+Tic Tac XO
+by Robert L Bryant
+Release Date	01 January 2008
+
+Tic Tac Toe game for NES with extras and power ups!
+
+https://www.youtube.com/watch?v=nLiVDJHfRFc

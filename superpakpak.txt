@@ -1,0 +1,13 @@
+Super PakPak
+by AOH Games
+
+SUPER PAKPAK is a 2-4 player Spacewar!|Thrust|Gravity force style game. 
+At least two players are needed to start the game. 
+HOLD button A at the start menu to begin a game. 
+The game will begin after the counter counts to zero. 
+In two player games, you need to get two kills in a round before the level ends.
+In three or four player games, the level ends when there is only one ship remaining.
+There are 12 scenes in the game, after the 12th scene the game is reverted back to the first scene.
+After any player gets 50 points, the game ends and the end screen will appear.
+
+https://www.youtube.com/watch?v=o5kFEW5MqIM

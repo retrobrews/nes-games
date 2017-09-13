@@ -1,0 +1,5 @@
+Russian Roulette
+by Damian Yerrick
+Release Date	01 January 2010
+
+Here is a home-brew title which simulates a game of Russian Roulette. A zapper can also be used in playing this game.

@@ -1,0 +1,8 @@
+That's Whack!
+by Sly Dog Studios
+
+Similar to the classic game of Whack-A-Mole, you must pop the dummy when they show themselves from behind the pipes.
+Push in the direction that they appear at to successfully knock them back down. Hit 100 of them and you win the game, but miss 5 of them and it’s game over.
+They will get progressively faster, so keep on your toes!
+
+https://slydogstudios.org/

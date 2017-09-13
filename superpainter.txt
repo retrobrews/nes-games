@@ -1,0 +1,6 @@
+Super Painter v1.0
+by Retrosouls
+
+A painter 'Mario style' game with great music.
+
+https://www.youtube.com/watch?v=Mggf_UOwZGs

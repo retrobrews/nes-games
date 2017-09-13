@@ -1,0 +1,9 @@
+Paint or Draw (2017) 
+by dougeff
+
+A new NES drawing game. It has 2 modes: Paint mode, you choose any 4 colors for the palette. 
+Draw mode, you choose any color, and drawing darkens (or lightens) like a pencil/eraser. 
+Doodle anything you want. Your favorite NES character? 
+Or you can use this as a game development tool, to sketch your sprites within the emulator itself.
+
+https://www.youtube.com/watch?v=b-2KMa_JXHE

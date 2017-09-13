@@ -1,0 +1,8 @@
+Pong 198x
+by Dr Dementia
+
+Here is a homebrew release of a Pong clone by Dr.Dimentia.
+Dr Dementia promises us that Pong 198X is a Pong game like never seen before. This goal should be reached with appearances of familiar characters
+Release Date	01 April 2014
+
+https://www.youtube.com/watch?v=lwJqu9pZiMs

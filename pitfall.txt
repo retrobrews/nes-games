@@ -1,0 +1,7 @@
+Pitfall: The Unofficial Adventure
+by Neverware
+
+Here is a homebrew remake of Activision’s Pitfall.
+The player controls Pitfall Harry and is tasked with collecting all the treasures in a jungle within 20 minutes while avoiding obstacles and hazards.
+
+https://www.youtube.com/watch?v=FzyzLxSbiT8

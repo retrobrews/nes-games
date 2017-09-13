@@ -1,0 +1,5 @@
+Pong 1K
+by Slydog Studios
+
+Here is a homebrew version of Pong by Sly Dog Studios.
+https://slydogstudios.org/

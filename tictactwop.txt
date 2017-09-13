@@ -1,0 +1,11 @@
+Tic-Tac-Two-P
+by Sly Dog Studios
+
+That’s right, a good ol’ game of Tic-Tac-Toe for you and one friend to play.
+The loser gets their X’s or O’s grayed out, and a stalemate results in all pieces getting the same treatment.
+At the end of the game, press the Start button to reset the game.
+The 1st player (X’s) always goes first, so trade controllers after each game if you feel the need!
+Of course, move the icon with the Directional Pad, and lay down your tile with the A button.
+Go grab a friend and get busy!
+
+https://slydogstudios.org/

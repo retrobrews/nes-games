@@ -1,0 +1,8 @@
+Pogo Cats
+by YGGI
+
+Here is a homebrew title where you play as a greaser or pinup girl and pogo stick your way upwards to complete levels.
+The gameplay is very simple. You need to jump to upper platforms. Each pixel scrolling will give you 1 point. 
+If you fall down the screen, you’ll loose. The goal is to make as many points as possible.
+
+https://www.youtube.com/watch?v=y1Oly0LxUeE
