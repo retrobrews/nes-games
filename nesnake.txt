@@ -1,0 +1,7 @@
+NESnake
+by Matrixz
+Release Date	11 July 2004
+
+Here is a homebrew release which follows the gameplay of the classic Snake game.
+
+https://www.youtube.com/watch?v=baj-UqF23ag

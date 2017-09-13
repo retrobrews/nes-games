@@ -1,0 +1,193 @@
+Indivisible
+by Lab Zero Games
+2017
+
+Join Ajna as she battles through forgotten temples in search of her tapir, Roti!
+This is an actual NES ROM demaking the Indivisible Prototype by Lab Zero Games. This is a fan game. It is not sponsored by 505 Games or Lab Zero Games.
+To find news about the game this is based on, visit: http://www.indivisiblegame.com/
+To support the original game, visit: https://www.indiegogo.com/projects/indivisible-rpg-from-the-creators-of-skullgirls#/
+This game requires an NES emulator. If you're new to emulation, details for getting set up can be found below.
+
+Controls:
+A Button: Jump/Wall Jump (Press A when facing and close to a wall while airborne)
+B Button: Attack/Axe Hang (Press and hold B when facing and close to a wall while airborne with the axe equipped)
+Left/Right: Move Left/Right
+Down: Hold while grounded to crouch
+Hold Down while grounded, then press B: Crouching attack
+Start: Pause/Unpause the game
+Select: Switch attack type
+
+Press A after the crouching axe attack hits something: Cancel the end of the animation with a jump
+Press Left, quickly release and then quickly press and hold Left: Dash left
+	(Alternatively, hold Left for a few seconds)
+Press Right, quickly release and then quickly press and hold Right: Dash right
+	(Alternatively, hold Right for a few seconds)
+
+
+https://kasumi.itch.io/indivisible
+My Twitter: https://twitter.com/kasumidirect
+
+Support me (Potentially inactive on release day):
+https://ko-fi.com/kasumi
+https://www.patreon.com/Kasumi
+A devlog of sorts: http://skullgirls.com/forums/index.php?threads/indivisible-on-nes-playable-rom-inside-image-heavy.8488/
+
+_________________________________________________________________________________________________________________________________________________________________________________
+EMULATOR SETUP:
+This game was programmed to run on the Nintendo Entertainment System (NES). To run it on another device, you need a type of program called an "emulator". An emulator is a program that simulates the hardware of another platform. An NES emulator for PC will allow you to run games designed for NES on your computer. What follows are ways to download the emulator "Nestopia". If you would like to run this game on another device than listed, try to find an NES emulator for that device.
+
+Windows: 
+	Download Nestopia from here: http://nestopia.sourceforge.net/downloads.html
+	(You want the "Nestopia v1.40 Binary" under "Windows". The number after the "v" may be different.)
+
+Mac OS:
+	Download Nestopia from here: http://www.bannister.org/software/nestopia.htm
+	
+Linux:
+	Search for and install Nestopia in your package manager.
+	
+Nestopia Setup For Windows:
+	Note: These instructions may differ slightly if a newer version of Nestopia is released.
+	
+1. Plug in any USB controllers you want to use before opening Nestopia. (If you want to use keyboard, skip this step.)
+
+2. Open Nestopia.
+
+3. Drag the ROM file ("Indivisible.nes") onto the Nestopia window.
+
+4. To change the controls, click "Options", then click "Input".
+
+5. Click "Pad 1" under "Type" on the newly opened "Input Options" window.
+
+6. If you would like to use a USB controller, select it from the pulldown menu under "Joysticks".
+
+7. Click "Set All" underneath "Mapping" and press the key or button you would like to assign to each NES button in order from top to bottom. Check the "Readme.txt" in the package that came with Indivisible to see which NES buttons correspond to which actions within the game. Indivisible does not use "Mic".
+	Example: After clicking "Set All", I press "Left Arrow" on my keyboard for "Left", then press "Right Arrow" for "Right", then press "Up Arrow" for "Up", then press "Down Arrow" for "Down" etc. 
+	
+	After you press something, you should immediately see what you pressed appear under "Mapping" in the correct row.
+	
+	To set a button individually, double click the field under "Mapping" that is on the same row as the button you want to change under "Key", then press the key/button you want.
+	
+8. Click OK in the bottom right of the "Input Options" window.
+
+By pressing the keys/buttons you set, you may now begin playing the game.
+
+Once your controls are set up, you need only drag the ROM file ("Indivisible.nes") onto the Nestopia window again to start playing in the future. Your controls are remembered.
+
+_________________________________________________________________________________________________________________________________________________________________________________
+CREDITS:
+Code, Music, Sprites, Animation, Tilesets:
+	Erik Gough - https://twitter.com/kasumidirect
+
+Music Engine (FamiTone2):
+	https://shiru.untergrund.net/code.shtml
+
+Thanks to the following brave souls who tried the way-too-hard first build:
+	Clement Wolfram Swennes (Atnas) - http://www.lolipopsicle.com/
+	
+	Harry Panourgias - https://twitter.com/gflk_pik
+	
+	Havick9
+	
+	Rin Andrechentov
+	
+	Ryumaru - https://www.artstation.com/artist/christopherpariano
+
+Thanks to the following testers for their work on later builds:
+	Brad Smith - http://rainwarrior.ca/
+	
+	Carlos Matos - https://twitter.com/neokrw
+	
+	KaboomKid
+	
+	Kit Ballard - https://www.facebook.com/KitBallardYT/
+	
+	Missingno
+	
+	Oded Rosenblatt
+	
+	PixelPiledriver - http://kirkbarnett.blogspot.com/
+
+Thanks to the maintainers of the following software:
+	Animanatee (On the go pixel art planning) - http://forum.gbadev.org/viewtopic.php?t=14116
+
+	Aseprite (Nearly all animation, tileset planning, some promotional material editing) - http://www.aseprite.org/
+
+	Audacity (Audio analysis of the original game) - http://www.audacityteam.org/
+	
+	Dear ImGui (Used for the GUI of a tile creation program) - https://github.com/ocornut/imgui
+
+	Digital Mars C++ Compiler (Compiler used for a program I wrote that used a tiny C++ component from another program I wrote) - http://www.digitalmars.com/
+
+	FamiTone2 (Music engine) - https://shiru.untergrund.net/code.shtml
+	
+	FamiTracker (Music creation) - http://www.famitracker.com/
+
+	FCEUX (Primary emulator used during development) - http://www.fceux.com/web/home.html
+	
+	FFmpeg (Making the "trailer" more twitter friendly) - https://www.ffmpeg.org/
+
+	fftuner (Analyzing music from the original game) - http://www.drpetter.se/project_fftuner.html
+	
+	HitFilm Express (Putting together the twitter "trailer") - https://hitfilm.com/express/
+
+	LICEcap (GIF creation for development thread/reference GIFs from original game) - http://www.cockos.com/licecap/
+
+	Mesen (Of particular use for the axe text scanline effect) - https://www.mesen.ca/
+	
+	Microsoft Visual Studio (Compiler used for my non-commandline programs) - https://www.visualstudio.com/
+
+	NES Screen Tool (Metasprite layouts) - https://shiru.untergrund.net/software.shtml
+
+	NES Space Checker (Project management) - https://shiru.untergrund.net/software.shtml
+
+	NESASM (Assembler) - http://www.nespowerpak.com/nesasm/
+
+	Notepad++ (Text editor used to write the code and documentation) - https://notepad-plus-plus.org/download
+
+	NSF Importer (Analyzing NES music in general) - http://rainwarrior.ca/projects/nes/nsfimport.html
+
+	OBS Studio (Recording gameplay from the original game) - https://obsproject.com/
+
+	Pyxel Edit (Ensuring tile counts/Tileset finalization) - http://pyxeledit.com/
+	
+	SDL (Used for graphical display for one of my tile creation programs) - https://www.libsdl.org/
+	
+	SFML (Used for graphical display for one of my tile creation programs) - https://www.sfml-dev.org/
+
+	Sonic Visualiser (Analyzing audio from the original game) - http://sonicvisualiser.org/
+
+	Tiled (Map creation) - http://www.mapeditor.org/
+
+	Tiny C Compiler (Compiler used to build various small tools to arrange assets) - http://bellard.org/tcc/
+
+	Transcribe (Analyzing audio from the original game) https://www.seventhstring.com/xscribe/overview.html
+
+	unluac (Pulling some information from the original game) - https://sourceforge.net/projects/unluac/
+
+	VirtuaNES Custom (Quick benchmarking emulator) - http://forums.nesdev.com/viewtopic.php?p=47911#p47911 ( Original VirtuaNES project: http://virtuanes.s1.xrea.com/ )
+
+	XVI32 (Hex editor, various bits of verification) - http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm
+
+	YY-CHR (Conversion of some of my graphics to the format NES understands) - http://www.geocities.jp/yy_6502/yychr/
+
+Special Thanks:
+	batari (Fast multiplication) - http://atariage.com/forums/topic/71120-6502-killer-hacks/?p=895975
+
+	Bregalad (4 pixel attribute idea) - http://forums.nesdev.com/viewtopic.php?p=79592#p79592
+
+	Joel Yliluoma (bisqwit) (Palette generator) - http://bisqwit.iki.fi/utils/nespalette.php
+	
+	Lee Davison (Fast, simple random number generator) - https://web.archive.org/web/20130212062016/http://mycorner.no-ip.org/6502/code/prng.html
+	
+	lidnariq (Console type detection without NMI) - https://forums.nesdev.com/viewtopic.php?p=163258#p163258
+
+	Mike Z (Unselfishly open about how the original game works) - http://skullheart.com/index.php?threads/indivisible-lab-zeros-upcoming-action-rpg-funded.7880/page-26#post-308796
+
+	Shiru (Maintains various software from the software list) - https://shiru.untergrund.net/
+
+	supercat (Fast collision detection) - http://atariage.com/forums/topic/71120-6502-killer-hacks/page__st__50#entry1054049
+
+	tokumaru (Object linked lists) - http://forums.nesdev.com/viewtopic.php?p=96731#p96731
+
+	#writing (Keeping me sane during this long haul)

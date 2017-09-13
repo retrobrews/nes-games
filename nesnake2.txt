@@ -1,0 +1,8 @@
+NESnake 2
+by Matrixz
+Release Date	02 September 2008
+
+Here is a homebrew release which follows the gameplay of the classic Snake game.
+A nice update to the NESnake game.. Great sound and better graphics oh and the worm looks like a worm now. 
+
+https://www.youtube.com/watch?v=-d_Kz6KcYbY

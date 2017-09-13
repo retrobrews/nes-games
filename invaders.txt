@@ -1,0 +1,6 @@
+Invaders Must Die!
+by Sebastian Mihai
+
+Here is a NES Homebrew game with a similiar style as Space Invaders.
+
+https://www.youtube.com/watch?v=WQdKapUSovI

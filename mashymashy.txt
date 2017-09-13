@@ -1,0 +1,9 @@
+MashyMashy
+by Mitch3b
+
+This straddles the line between game and tool. It is for testing mash speed. 
+You set a mash button (A, B, Start, Select or “B with down” to simulate Ninja Gaiden Jaquio mashing. You set a time limit (1, 2, 5 or 10 seconds). 
+Once time is complete, it will display number of buttons mashed and the rate of button pushes per second.
+
+https://github.com/mitch3b/MashyMashy/
+https://www.youtube.com/watch?v=xFqPmXosqY0
