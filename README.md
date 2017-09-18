@@ -84,6 +84,7 @@ Homebrew NES games:
  - RUSSIAN ROULETTE [Quest Games]<br />
  - SGT. HELMET - TRAINING DAY<br />
  - SIMONE SAYS<br />
+ - SIR ADABOL REMASTERED<br />
  - SNAIL MAZE<br />
  - SOKOBAN<br />
  - SOLAR WARS<br />
@@ -100,8 +101,11 @@ Homebrew NES games:
  - TIC TAC TWO P<br />
  - TIC TAC XO<br />
  - TIGER JENNY<br />
+ - TWIN DRAGONS<br />
  - VIGILANTE NINJA<br />
  - VIRUS CLEANER<br />
  - WHACK-A-MARIO<br />
+ - WO XIANG NIAO NIAO<br />
  - WRAITH<br />
+ - YUN<br />
  - ZOOMING SECRETARY<br />
