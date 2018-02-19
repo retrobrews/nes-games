@@ -6,7 +6,6 @@ Homebrew NES games:
  - ALTER EGO<br />
  - AMBUSHED<br />
  - ASSIMILATE<br />
- - BEAT'EN &amp; EAT'EM<br />
  - BIG CITY SLIDING BLASTER<br />
  - BLADE BUSTER<br />
  - BLURRED LINES 2048<br />
