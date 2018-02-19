@@ -61,18 +61,6 @@
           <players>1</players>
       </game>
         <game>
-          <path>./beatem.nes</path>
-          <name>BEAT&apos;EN &amp; EAT&apos;EM</name>
-          <desc>(18yrs!) Players control two nude women on the street who must catch semen in their mouths that comes from a masturbating man on a rooftop without missing.</desc>
-          <image>./beatem.png</image>
-          <rating>0</rating>
-          <releasedate>20140000T000000</releasedate>
-          <developer>FG Software</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>BEAT&apos;EN &amp; EAT&apos;EM</genre>
-          <players>1</players>
-      </game>
-        <game>
           <path>./blaster.nes</path>
           <name>BIG CITY SLIDING BLASTER</name>
           <desc>Sliding Blaster by NovaSquirrel, a homebrew NES game released in 2014.</desc>
