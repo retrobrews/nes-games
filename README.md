@@ -64,6 +64,7 @@ Homebrew NES games:
  - NESNAKE<br />
  - NESNAKE 2<br />
  - NINJA MUNCHER<br />
+ - NOMOLOS<br />
  - NO POINTS<br />
  - OBSTACLE TREK<br />
  - PAINT OR DRAW<br />
@@ -96,6 +97,7 @@ Homebrew NES games:
  - THAT&apos;S WHACK!<br />
  - THE GAME<br />
  - THE INVASION<br />
+ - THE LEGENDS OF OWLIA<br />
  - THE ONE WITH THE WALLS<br />
  - THWAITE<br />
  - TIC TAC TWO P<br />
