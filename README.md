@@ -110,3 +110,5 @@ Homebrew NES games:
  - WRAITH<br />
  - YUN<br />
  - ZOOMING SECRETARY<br />
+
+*Note: If you are a developer/owner of any listed game and you don't wanna see it here for any reasons, please let me know immi on retrobrewsATgmail.com. Thanks!
