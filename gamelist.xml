@@ -2,24 +2,24 @@
   <gameList>
         <game>
           <path>./31in1realgame-multicart.nes</path>
-          <name>31 in 1 Real Game!</name>
+          <name>31 IN 1 REAL GAME!</name>
           <desc>We would like to share with you all our own Multicart. 31 real games! Lots of laughs! Facepalms! Controllers flying accross the room! Mysterious secrets! Fake names! Repeat games with different sprites! Everything in 3 megabits full of love and kisses.</desc>
           <image>./31in1realgame-multicart.png</image>
           <rating>0</rating>
-          <releasedate>20160000T000000</releasedate>
+          <releasedate>20160101T000000</releasedate>
           <developer>Mojon Twins</developer>
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
-          <genre>31 in 1 Real Game!</genre>
+          <genre>31 IN 1 REAL GAME!</genre>
       </game> 
         <game>
           <path>./2048.nes</path>
           <name>2048</name>
-          <desc>2048 is a numbers game where you fuse two of the same number in a grid to add them up and try to reach the number 2048. NES adaption of the game 2048 by tsone.</desc>
+          <desc>2048 is a numbers game where you fuse two of the same number in a grid to add them up and try to reach the number 2048. NES adaption of the game 2048.</desc>
           <image>./2048.png</image>
           <rating>0</rating>
           <releasedate>20140528T000000</releasedate>
-          <developer>tsone</developer>
+          <developer>Tsone</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>2048</genre>
           <players>1</players>
@@ -43,7 +43,7 @@
           <image>./ambushed.png</image>
           <rating>0</rating>
           <releasedate>20150615T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>AMBUSHED</genre>
           <players>1</players>
@@ -103,7 +103,7 @@
           <image>./bombarray.png</image>
           <rating>0</rating>
           <releasedate>20160829T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>BOMB ARRAY</genre>
           <players>1</players>
@@ -126,7 +126,7 @@
           <desc>Arrange the colored boxes in the correct order! Complete ten color sets to advance to the next level! Finish all 6 levels to win the game!</desc>
           <image>./boxboy.png</image>
           <rating>0</rating>
-          <releasedate>20030000T000000</releasedate>
+          <releasedate>20030101T000000</releasedate>
           <developer>Neal Tew</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>BOX BOY</genre>
@@ -163,7 +163,7 @@
           <image>./cl1k.png</image>
           <rating>0</rating>
           <releasedate>20170611T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>CL1K</genre>
           <players>1</players>
@@ -171,11 +171,11 @@
         <game>
           <path>./cyo.nes</path>
           <name>CYO</name>
-          <desc>Cyo is a simple minimal NES shooting game which is entirely designed and coded by nemesys.</desc>
+          <desc>Cyo is a simple minimal NES shooting game which is entirely designed and coded by Nemesys.</desc>
           <image>./cyo.png</image>
           <rating>0</rating>
-          <releasedate>20150000T000000</releasedate>
-          <developer>nemesys</developer>
+          <releasedate>20150101T000000</releasedate>
+          <developer>Nemesys</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>CYO</genre>
           <players>1</players>
@@ -186,7 +186,7 @@
           <desc>Action game.</desc>
           <image>./dabg.png</image>
           <rating>0</rating>
-          <releasedate>20130000T000000</releasedate>
+          <releasedate>20130101T000000</releasedate>
           <developer>NovaSquirrel</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>DOUBLE ACTION BLASTER GUYS</genre>
@@ -199,7 +199,7 @@
           <image>./debrisdodger.png</image>
           <rating>0</rating>
           <releasedate>20170520T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>DEBRIS DODGER</genre>
           <players>1</players>
@@ -211,7 +211,7 @@
           <image>./dpadhero.png</image>
           <rating>0</rating>
           <releasedate>20090224T000000</releasedate>
-          <developer>dpadhero</developer>
+          <developer>Dpadhero</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>D-PAD HERO I</genre>
           <players>1</players>
@@ -223,7 +223,7 @@
           <image>./dpadhero2.png</image>
           <rating>0</rating>
           <releasedate>20100214T000000</releasedate>
-          <developer>dpadhero</developer>
+          <developer>Dpadhero</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>D-PAD HERO II</genre>
           <players>1</players>
@@ -246,7 +246,7 @@
           <desc>It&apos;s that game with the blocks, but not being Tetris.</desc>
           <image>./dushlan.png</image>
           <rating>0</rating>
-          <releasedate>20160000T000000</releasedate>
+          <releasedate>20160101T000000</releasedate>
           <developer>Peter McQuillan</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>DUSHLAN</genre>
@@ -259,7 +259,7 @@
           <image>./falldown.png</image>
           <rating>0</rating>
           <releasedate>20081120T000000</releasedate>
-          <developer>Sivak Drac</developer>
+          <developer>Sivak</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>FALLDOWN</genre>
           <players>1</players>
@@ -303,11 +303,11 @@
         <game>
           <path>./flappyblock.nes</path>
           <name>FLAPPY BLOCK</name>
-          <desc>The title is exactly what it sounds like. Yes, we here at Sly Dog Studios decided to jump on the bandwagon as well. We created our very own kind of clone of the game that everyone seems to love, but went ahead and tried for a 1k version of it.</desc>
+          <desc>The title is exactly what it sounds like. Yes, we here at SlyDog Studios decided to jump on the bandwagon as well. We created our very own kind of clone of the game that everyone seems to love, but went ahead and tried for a 1k version of it.</desc>
           <image>./flappyblock.png</image>
           <rating>0</rating>
           <releasedate>20150615T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>FLAPPY BLOCK</genre>
           <players>1</players>
@@ -315,11 +315,11 @@
         <game>
           <path>./forpoints.nes</path>
           <name>FOR POINTS</name>
-          <desc>Why did the chicken cross the road? For Points, of course! Get the chicken across the road to get some points. Don&apos;t get hit by a car though. Chickens are pretty defenseless against cars. One hit and it&apos;s game over. Game created by Sly Dog Studios.</desc>
+          <desc>Why did the chicken cross the road? For Points, of course! Get the chicken across the road to get some points. Don&apos;t get hit by a car though. Chickens are pretty defenseless against cars. One hit and it&apos;s game over. Game created by SlyDog Studios.</desc>
           <image>./forpoints.png</image>
           <rating>0</rating>
           <releasedate>20140522T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>FOR POINTS</genre>
           <players>1</players>
@@ -403,7 +403,7 @@
           <image>./gsm.png</image>
           <rating>0</rating>
           <releasedate>20160118T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>GSM</genre>
           <players>1</players>
@@ -426,7 +426,7 @@
           <desc>The year is 7250 AD, and the judicial systems of the world have crumbled. Civil and Criminal cases are now settled in an arena-style trial to the death. The Plaintiff and the Defendant are strapped into modified Electric Chairs and forced to use their legs to push the "Hydro-Electric Foot Pedals", which, therefore, in turn, causes an electric current to course through his/her/it&apos;s opponent&apos;s body. There is no settlement. There is no plea-bargain. Electric Justice for All!!! That&apos;s how the story of Strangulation Games&apos; first release goes, a game which sure would&apos;ve been a killer if it had been released back in the NES games and published by Active Enterprises or Color Dreams. Your objective of the game basicly is to hit your joypad A button over and over until it comes loose and drop off. Every time you win the color on the screen changes, very fun indeed!!</desc>
           <image>./hotseatharry.png</image>
           <rating>0</rating>
-          <releasedate>20020000T000000</releasedate>
+          <releasedate>20020101T000000</releasedate>
           <developer>Memblers</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>HOT SEAT HARRY</genre>
@@ -475,7 +475,7 @@
           <image>./jetpaco.png</image>
           <rating>0</rating>
           <releasedate>20150106T000000</releasedate>
-          <developer>Mojo Twins</developer>
+          <developer>Mojon Twins</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>JET PACO - SPACE AGENT!</genre>
           <players>1</players>
@@ -487,7 +487,7 @@
           <image>./kyff.png</image>
           <rating>0</rating>
           <releasedate>20130402T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>K.Y.F.F.</genre>
           <players>4</players>
@@ -534,7 +534,7 @@
           <desc>An early 80s arcade shooter for the NES. Play it on an emulator or NES hardware! Lunar Limit puts you in control of a miniature version of planet earth, "Mini Earth", and your faithful satellite, "The Moon Cannon", in an all-out-war against evil Atari invaders.</desc>
           <image>./lunarlimit.png</image>
           <rating>0</rating>
-          <releasedate>20170000T000000</releasedate>
+          <releasedate>20170101T000000</releasedate>
           <developer>Pubby</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>LUNAR LIMIT</genre>
@@ -546,8 +546,8 @@
           <desc>The evil summoner Amondus from The Order of the Talon has taken over Prim, Hekl&apos;s once happy homeland. And nothing drives a wizard more crazy than having their territory trampled on! Can you help Hekl defeat the enemies that Amondus has populated throughout the landscape? To do so, you will need to master the art of levitation, find magic spells that will assist you in reaching new areas, and upgrade your weapons. All of these will be necessary in order to give Hekl the power he needs to restore peace to Prim. Do you have what it takes? If you dare, venture into this, the first installment of the Candelabra series!</desc>
           <image>./madwizard.png</image>
           <rating>0</rating>
-          <releasedate>20140000T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <releasedate>20140101T000000</releasedate>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>MAD WIZARD</genre>
           <players>1</players>
@@ -607,7 +607,7 @@
           <image>./memory.png</image>
           <rating>0</rating>
           <releasedate>20150905T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>MEMORY</genre>
           <players>1</players>
@@ -619,7 +619,7 @@
           <image>./mguard.png</image>
           <rating>0</rating>
           <releasedate>20140418T000000</releasedate>
-          <developer>Slydog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>METEOR GUARD</genre>
           <players>1</players>
@@ -631,7 +631,7 @@
           <image>./mguard2.png</image>
           <rating>0</rating>
           <releasedate>20150615T000000</releasedate>
-          <developer>Slydog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>METEOR GUARD 2</genre>
           <players>1</players>
@@ -643,7 +643,7 @@
           <image>./midnightjogger.png</image>
           <rating>0</rating>
           <releasedate>20150615T000000</releasedate>
-          <developer>Slydog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>MIDNIGHT JOGGER</genre>
           <players>1</players>
@@ -739,7 +739,7 @@
           <image>./ninjamuncher.png</image>
           <rating>0</rating>
           <releasedate>20150903T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>NINJA MUNCHER</genre>
           <players>1</players>
@@ -763,7 +763,7 @@
           <image>./nopoints.png</image>
           <rating>0</rating>
           <releasedate>20150722T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>NO POINTS</genre>
           <players>1</players>
@@ -775,7 +775,7 @@
           <image>./obstacletrek.png</image>
           <rating>0</rating>
           <releasedate>20150615T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>OBSTACLE TREK</genre>
           <players>1</players>
@@ -799,7 +799,7 @@
           <image>./paintordraw.png</image>
           <rating>0</rating>
           <releasedate>20150403T000000</releasedate>
-          <developer>dougeff</developer>
+          <developer>Dougeff</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>PAINT OR DRAW</genre>
           <players>1</players>
@@ -823,7 +823,7 @@
           <image>./pegs.png</image>
           <rating>0</rating>
           <releasedate>20080101T000000</releasedate>
-          <developer>Slydog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>PEGS</genre>
           <players>1</players>
@@ -855,11 +855,11 @@
         <game>
           <path>./pong1k.nes</path>
           <name>PONG 1K</name>
-          <desc>Here is a homebrew version of Pong by Sly Dog Studios.</desc>
+          <desc>Here is a homebrew version of Pong by SlyDog Studios.</desc>
           <image>./pong1k.png</image>
           <rating>0</rating>
           <releasedate>20140418T000000</releasedate>
-          <developer>Slydog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>PONG 1K</genre>
           <players>1</players>
@@ -871,7 +871,7 @@
           <image>./pong1k2p.png</image>
           <rating>0</rating>
           <releasedate>20150615T000000</releasedate>
-          <developer>Slydog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>PONG 1K 2P</genre>
           <players>2</players>
@@ -919,7 +919,7 @@
           <image>./ralph4.png</image>
           <rating>0</rating>
           <releasedate>20160418T000000</releasedate>
-          <developer>pubby</developer>
+          <developer>Pubby</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>RALPH 4</genre>
           <players>1</players>
@@ -942,8 +942,8 @@
           <desc>Amondus has big plans for the land of Prim and its inhabitants. In order to carry out his nefarious plot, he must force the local goblin population to serve him and work against his biggest threat, Hekl! Take control of Amondus, his familiar Charwit, and the leader of the gargoyles, General Rant. Capture goblins to build an army worthy of a tyrant, and force them to steal all of Hekl&apos;s spells and mystical abilities! Before this can be accomplished, you must face the champions of the Primwoods, including its grand protector, The Elderwood! Are you wicked enough to carry out these heinous atrocities? Can you be villainous and enslave a population of relatively peaceful goblins? Only you can answer these questions in The Rise of Amondus, an exciting and action-packed prequel to The Mad Wizard, and the second installment of The Candelabra Epic!</desc>
           <image>./riseofamondus.png</image>
           <rating>0</rating>
-          <releasedate>20150000T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <releasedate>20150101T000000</releasedate>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>RISE OF AMONDUS</genre>
           <players>1</players>
@@ -1003,7 +1003,7 @@
           <image>./simonesays.png</image>
           <rating>0</rating>
           <releasedate>20160106T000000</releasedate>
-          <developer>Slydog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>SIMONE SAYS</genre>
           <players>1</players>
@@ -1011,7 +1011,7 @@
         <game>
           <path>./sir-ababol-remastered.nes</path>
           <name>SIR ADABOL REMASTERED</name>
-          <desc>XXX</desc>
+          <desc>Control Sir Ababol accross the Monegrian fields and gather 24 ababol flowers. To be able to progress in your journey you'll need some keys you will be able to use to open several doors to gain access to different sections. You can jump on the baddies to get rid of them, too. Be patient, think before you jump, and you'll be successful!</desc>
           <image>./sir-ababol-remastered.png</image>
           <rating>0</rating>
           <releasedate>20160201T000000</releasedate>
@@ -1027,7 +1027,7 @@
           <image>./snailmaze.png</image>
           <rating>0</rating>
           <releasedate>20120304T000000</releasedate>
-          <developer>Slydog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>SNAIL MAZE</genre>
           <players>1</players>
@@ -1123,7 +1123,7 @@
           <image>./thatswhack.png</image>
           <rating>0</rating>
           <releasedate>20150615T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>THAT&apos;S WHACK!</genre>
           <players>2-4</players>
@@ -1147,7 +1147,7 @@
           <image>./theinvasion.png</image>
           <rating>0</rating>
           <releasedate>20150712T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>THE INVASION</genre>
           <players>1</players>
@@ -1159,7 +1159,7 @@
           <image>./theonewiththewalls.png</image>
           <rating>0</rating>
           <releasedate>20160903T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>THE ONE WITH THE WALLS</genre>
           <players>2</players>
@@ -1183,7 +1183,7 @@
           <image>./tictactwop.png</image>
           <rating>0</rating>
           <releasedate>20150615T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>TIC TAC TWO P</genre>
           <players>2</players>
@@ -1231,7 +1231,7 @@
           <image>./vigilanteninja.png</image>
           <rating>0</rating>
           <releasedate>20150709T000000</releasedate>
-          <developer>dougeff</developer>
+          <developer>Dougeff</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>VIGILANTE NINJA</genre>
           <players>1</players>
@@ -1243,7 +1243,7 @@
           <image>./viruscleaner.png</image>
           <rating>0</rating>
           <releasedate>20140609T000000</releasedate>
-          <developer>Sly Dog Studios</developer>
+          <developer>SlyDog Studios</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>VIRUS CLEANER</genre>
           <players>1</players>
