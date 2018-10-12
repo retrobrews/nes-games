@@ -1,8 +1,11 @@
 Driar
 by Adolfsson & Eriksson
+ejdolf@gmail.com
 
 Take control of Driar and collect all the stars on each level to progress. 
 You can walk around the screen (if you exit the screen on the right side you will reappear on the left side) - remember this and use this to your advantage. 
 There are 38 levels in total.
+
+Driar is licensed under https://creativecommons.org/licenses/by-nc/3.0/
 
 https://www.youtube.com/watch?v=EuIuxivrcKU
