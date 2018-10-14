@@ -253,18 +253,6 @@
           <players>1</players>
       </game>
         <game>
-          <path>./falldown.nes</path>
-          <name>FALLDOWN</name>
-          <desc>In this homebrew you have to control a ball and keep it restrained from the screen by not falling too fast and by keeping up with the screen moving down.</desc>
-          <image>./falldown.png</image>
-          <rating>0</rating>
-          <releasedate>20081120T000000</releasedate>
-          <developer>Sivak</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>FALLDOWN</genre>
-          <players>1</players>
-      </game>
-        <game>
           <path>./fhbg.nes</path>
           <name>FORHEAD BLOCK GUY</name>
           <desc>In this platformer you throw blocks at your enemies to proceed through the game.</desc>
@@ -370,18 +358,6 @@
           <developer>YGGI</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>GAME OF LIFE</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./geminim.nes</path>
-          <name>GEMINIM</name>
-          <desc>Are you the better one at snatching gems? This is not the final version of the game, but still very playable.</desc>
-          <image>./geminim.png</image>
-          <rating>0</rating>
-          <releasedate>20080126T000000</releasedate>
-          <developer>Sivak</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>GEMINIM</genre>
           <players>1</players>
       </game>       
         <game>
