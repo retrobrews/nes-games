@@ -1,7 +1,0 @@
-FALLDOWN
-by Sivak Drac
-
-In this homebrew you have to control a ball and keep it restrained from the screen by not falling too fast and by keeping up with the screen moving down.
-Release Date	20 November 2008
-
-https://www.youtube.com/watch?v=LVFYRiObZQ4
