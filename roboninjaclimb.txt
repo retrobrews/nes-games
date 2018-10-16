@@ -1,0 +1,41 @@
+# README #
+
+Robo-Ninja-Climb is my entry into the 2017 NesDev competition
+by Nathan Tolbert
+2017
+
+# LICENSE #
+
+License coming soon. Feel free to view the code for now, and ask me if you want to do something with it.
+
+# ATTRIBUTION #
+
+Background graphics: Omega Team by surt
+https://opengameart.org/content/omega-team
+https://creativecommons.org/licenses/by/3.0/
+Modified to fit game palette, nes layout, etc
+
+Computer Font: By WhoaMan
+http://forums.nesdev.com/viewtopic.php?f=2&t=10284
+
+Robo-Ninja character by Chris Hildenbrand
+
+# TODO #
+
+* improve music
+* fly away at ending
+
+
+Robo-Ninja Climb
+A short and challenging climbing/jumping game for the Nintendo NES and Atari 2600.
+
+Robo-Ninja is at it again, this time practicing his climbing and jumping skills before setting out to save the world. 
+In this NES game, you climb and dodge spikes, navigating 5 levels of obstacles.
+
+Robo-Ninja Climb is my submission to the 2017 NESDev Competition.
+
+Later, I took the NES source code, stripped out all the IO, and ported it directly to the Atari 2600.
+
+Source code for the NES version is available on Bitbucket --> https://bitbucket.org/gauauu/robo-ninja-climb
+
+http://www.bitethechili.com/roboninja-climb/
