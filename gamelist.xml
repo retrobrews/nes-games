@@ -938,14 +938,14 @@
       </game>
        <game>
           <path>./roboninjaclimb.nes</path>
-          <name>ROBO-NINJA-CLIMB</name>
+          <name>ROBO-NINJA CLIMB</name>
           <desc>Robo-Ninja is at it again, this time practicing his climbing and jumping skills before setting out to save the world. In this NES game, you climb and dodge spikes, navigating 5 levels of obstacles.</desc>
           <image>./roboninjaclimb.png</image>
           <rating>0</rating>
           <releasedate>20171122T000000</releasedate>
           <developer>Nathan Tolbert</developer>
           <publisher>HOMEBREW ROM</publisher>
-          <genre>ROBO-NINJA-CLIMB</genre>
+          <genre>ROBO-NINJA CLIMB</genre>
           <players>1</players>
        </game>
         <game>
