@@ -78,7 +78,7 @@ Homebrew NES games:
  - RALPH 4<br />
  - RHDE FURNITURE FIGHT<br />
  - RISE OF AMONDUS<br />
- - ROBO-NINJA-CLIMB<br />
+ - ROBO-NINJA CLIMB<br />
  - ROCK PAPER SCISSORS<br />
  - RUSSIAN ROULETTE [Damian]<br />
  - RUSSIAN ROULETTE [Quest Games]<br />
