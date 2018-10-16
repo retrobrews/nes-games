@@ -1066,7 +1066,7 @@
           <developer>Nathan Tolbert</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>SPACEY MCRACEY</genre>
-          <players>1</players>
+          <players>1-4</players>
        </game>
         <game>
           <path>./sting.nes</path>
