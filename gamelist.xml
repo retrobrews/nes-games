@@ -744,6 +744,18 @@
           <genre>NO POINTS</genre>
           <players>1</players>
       </game>
+       <game>
+          <path>./novathesquirrel.nes</path>
+          <name>NOVA THE SQUIRREL</name>
+          <desc>Nova the Squirrel is an NES game that stars Nova Storm, a green squirrel, who ends up in a strange world at a convenient time, and has to use her new abilities to save it. It's a platformer that mostly focuses on Kirby-style ability copying and puzzle mechanics.</desc>
+          <image>./novathesquirrel.png</image>
+          <rating>0</rating>
+          <releasedate>20180710T000000</releasedate>
+          <developer>NovaSquirrel</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>NOVA THE SQUIRREL</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./obstacletrek.nes</path>
           <name>OBSTACLE TREK</name>
@@ -923,7 +935,19 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>RISE OF AMONDUS</genre>
           <players>1</players>
-      </game>      
+      </game>
+       <game>
+          <path>./roboninjaclimb.nes</path>
+          <name>Robo-Ninja-Climb</name>
+          <desc>Robo-Ninja is at it again, this time practicing his climbing and jumping skills before setting out to save the world. In this NES game, you climb and dodge spikes, navigating 5 levels of obstacles.</desc>
+          <image>./roboninjaclimb.png</image>
+          <rating>0</rating>
+          <releasedate>20171122T000000</releasedate>
+          <developer>Nathan Tolbert</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Robo-Ninja-Climb</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./rockpaperscissors.nes</path>
           <name>ROCK PAPER SCISSORS</name>
@@ -1031,7 +1055,19 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>SOLAR WARS</genre>
           <players>1-2</players>
-      </game> 
+      </game>
+       <game>
+          <path>./spaceymcracey.nes</path>
+          <name>SPACEY MCRACEY</name>
+          <desc>Spacey McRacey is a 4-player party style game in which you fly a spaceship, and get points for staying in the lead.  (If you are the only player, you will play against terrible bots) Different rounds will have different alternate objectives, such as the battle round, where you also get points for killing your enemies. Move your ship with the control pad.  Press A to shoot, although you can only shoot once every few seconds.  You can kill opponents by shooting them, or by colliding with them from above. The first player to 100 points wins the round. Win 3 rounds to win the game. From time to time, powerups will fly across the top of the screen. Shoot them to get that power for the rest of the round.</desc>
+          <image>./spaceymcracey.png</image>
+          <rating>0</rating>
+          <releasedate>20170407T000000</releasedate>
+          <developer>Nathan Tolbert</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>SPACEY MCRACEY</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./sting.nes</path>
           <name>STING</name>
