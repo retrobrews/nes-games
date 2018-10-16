@@ -22,7 +22,6 @@ Homebrew NES games:
  - D-PAD HERO II<br />
  - DRIAR<br />
  - DUSHLAN<br />
- - FALLDOWN<br />
  - FORHEAD BLOCK GUY<br />
  - FIGHTER F-8000<br />
  - FLAPPY BIRD<br />
@@ -32,7 +31,6 @@ Homebrew NES games:
  - GALAXXON<br />
  - GALAXY PATROL ENHANCED<br />
  - GAME OF LIFE<br />
- - GEMINIM<br />
  - GRAVEDIGGER<br />
  - GSM<br />
  - HOT LOGIC<br />
@@ -65,6 +63,7 @@ Homebrew NES games:
  - NINJA MUNCHER<br />
  - NOMOLOS<br />
  - NO POINTS<br />
+ - NOVA THE SQUIRREL<br />
  - OBSTACLE TREK<br />
  - PAINT OR DRAW<br />
  - PCB ARTIST<br />
@@ -79,6 +78,7 @@ Homebrew NES games:
  - RALPH 4<br />
  - RHDE FURNITURE FIGHT<br />
  - RISE OF AMONDUS<br />
+ - ROBO-NINJA-CLIMB<br />
  - ROCK PAPER SCISSORS<br />
  - RUSSIAN ROULETTE [Damian]<br />
  - RUSSIAN ROULETTE [Quest Games]<br />
@@ -88,6 +88,7 @@ Homebrew NES games:
  - SNAIL MAZE<br />
  - SOKOBAN<br />
  - SOLAR WARS<br />
+ - SPACEY MCRACEY<br />
  - STING<br />
  - STREEMERZ<br />
  - SUDOKU<br />
