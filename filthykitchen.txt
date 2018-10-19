@@ -1,0 +1,20 @@
+Name: 		Filthy Kitchen
+
+Submitted By: 	dustmop
+
+Category:	Action platformer
+
+Description:  	The kitchen is filthy, clean it up!
+
+Controls:	D-pad: Movement
+		B: Throw your swatter
+		A: Jump
+
+Rom info:	Mapper 28
+		Filesize 64k 
+
+Credits:	Dustmop - Developer
+                Shiru - Famitone
+		Knife City - music
+
+

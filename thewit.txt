@@ -1,0 +1,39 @@
+The Wit.nes (demo)
+by dustmop
+Published	Jun 03, 2016
+https://dustmop.itch.io/the-witnes
+
+
+A demake of Thekla Inc's 2016 game "The Witness" has you exploring a mysterious island* and solving puzzles. 
+Developed over 2 months, this Nes ROM stands as a reinterpretation and tribute to the original work. 
+Aimed at both players unfamiliar with the full game who want to learn what it's like, as well as veterans 
+that need a fix of new puzzle panels to solve.
+
+    32 puzzles with various rules to discover
+    Overhead world with 4-way scrolling
+    16 full screens of map to explore
+    NROM based hardware, no mapper necessary!
+
+Run in your favorite NES emulator, or on original hardware using a Powerpak or Everdrive!
+
+* - demo version: Only explore the starting area
+
+By: twitter.com/dustmop
+
+Press inquiries or technical questions: me@dustmop.io
+
+Blogging about NES: dustmop.io/blog
+
+Previous NES game: starversus.com
+More information
+Install instructions
+
+You will need an NES emulator to play The Wit.nes. Recommendations for each operating system:
+
+Windows: FCEUX (http://www.fceux.com/web/download.html)
+
+OSX: Nestopia (http://www.bannister.org/software/nestopia.htm)
+
+Linux: FCE Ultra (http://www.zophar.net/linux/nes/fce-ultra.html)
+
+Android: Nostalgia.NES (https://play.google.com/store/apps/details?id=com.nostalgiaemulators.neslite)
