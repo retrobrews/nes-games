@@ -299,7 +299,19 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>FLAPPY BLOCK</genre>
           <players>1</players>
-      </game>       
+      </game>
+       <game>
+          <path>./filthykitchen.nes</path>
+          <name>FILTHY KITCHEN</name>
+          <desc>The kitchen is filthy, clean it up!</desc>
+          <image>./filthykitchen.png</image>
+          <rating>0</rating>
+          <releasedate>20170203T000000</releasedate>
+          <developer>dustmop</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>FILTHY KITCHEN</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./forpoints.nes</path>
           <name>FOR POINTS</name>
@@ -1175,7 +1187,19 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>THE ONE WITH THE WALLS</genre>
           <players>2</players>
-      </game>      
+      </game>
+       <game>
+          <path>./thewit.nes</path>
+          <name>THE WIT.NES</name>
+          <desc>A demake of Thekla Inc's 2016 game "The Witness" has you exploring a mysterious island* and solving puzzles. Developed over 2 months, this Nes ROM stands as a reinterpretation and tribute to the original work. Aimed at both players unfamiliar with the full game who want to learn what it's like, as well as veterans that need a fix of new puzzle panels to solve.</desc>
+          <image>./thewit.png</image>
+          <rating>0</rating>
+          <releasedate>20160603T000000</releasedate>
+          <developer>dustmop</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>THE WIT.NES</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./thwaite.nes</path>
           <name>THWAITE</name>
