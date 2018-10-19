@@ -409,15 +409,15 @@
           <players>1</players>
       </game>
         <game>
-          <path>./indivisible.nes</path>
-          <name>INDIVISIBLE</name>
+          <path>./indivisibleonnes.nes</path>
+          <name>INDIVISIBLE ON NES</name>
           <desc>Join Ajna as she battles through forgotten temples in search of her tapir, Roti!</desc>
-          <image>./indivisible.png</image>
+          <image>./indivisibleonnes.png</image>
           <rating>0</rating>
-          <releasedate>20170827T000000</releasedate>
-          <developer>Lab Zero Games</developer>
+          <releasedate>20170901T000000</releasedate>
+          <developer>KasumiDirect</developer>
           <publisher>HOMEBREW ROM</publisher>
-          <genre>INDIVISIBLE</genre>
+          <genre>INDIVISIBLE ON NES</genre>
           <players>1</players>
       </game>       
         <game>
