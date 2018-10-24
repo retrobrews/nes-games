@@ -1,6 +1,0 @@
-Sokoban
-by Johannes Holmberg
-
-A very early NES homebrew release, but that doesn't make it less playable. It's Sokoban, it puzzling and addictive...
-
-https://www.youtube.com/watch?v=psFf9rgJfFU
