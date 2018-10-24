@@ -1,6 +1,0 @@
-MILIONESY
-by Denine
-
-Homebrew game which based on "Who Wants To Be A Millionare", but it asks Nintendo related questions.
-
-https://www.youtube.com/watch?v=WNU8KEIl_Uo
