@@ -1,7 +1,0 @@
-Whack A Mario
-by Woahman
-Release Date	15 August 2005
-
-Here is a simple game of whack-a-mole where you whack Mario’s head as it pops out of pipes.
-
-https://www.youtube.com/watch?v=-YjPPq5nVy8
