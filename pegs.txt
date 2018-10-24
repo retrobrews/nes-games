@@ -1,8 +1,0 @@
-Pegs
-by Slydog Studios
-
-Roth released his NES game Pegs, along with the Assembler source code.
-Here is a home-brew release which simulates triangular peg-board puzzle game.
-
-https://slydogstudios.org/
-https://www.youtube.com/watch?v=UuoeT8NydaQ
