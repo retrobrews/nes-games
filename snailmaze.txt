@@ -1,7 +1,0 @@
-Snail Maze
-by Slydog Studios
-
-In this home-brew release you have to guide the snail through 12 complex mazes to complete this game.
-
-https://slydogstudios.org/
-https://www.youtube.com/watch?v=aLXRti-TQrc
