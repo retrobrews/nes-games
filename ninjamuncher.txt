@@ -1,8 +1,0 @@
-Ninja Muncher
-by Sly Dog Studios
-
-Ninja Muncher is based off of the 4k homebrew game Munchie Attack by Memblers. In this version, you have to eat the attacking ninja heads, and dodge the speeding ninja stars!
-But watch out, the speed varies for each, so you need to be on your toes and keep gobbling those baddies while constantly moving around.
-It can be harrowing, but alas, I think you are up to the task! Push Start to begin play, and use the d-pad to move your mouf around.
-
-https://slydogstudios.org/
