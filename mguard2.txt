@@ -1,8 +1,0 @@
-Meteor Guard 2
-by Slydog Studios
-
-Resume the meteor blasting adventures of Matthew Campkill!
-On the way home from his last mission, he got caught in an asteroid belt and must destroy enough of them to make the course to Earth more safe for himself.
-Push in a direction to move in that direction, and push the B button to fire.
-
-https://slydogstudios.org/
