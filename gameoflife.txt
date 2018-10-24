@@ -1,4 +1,0 @@
-Game Of Life
-by YGGI
-
-The game of life is a cellular automaton generator.
