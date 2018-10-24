@@ -1,6 +1,0 @@
-Pong 1K 2P
-by Slydog Studios
-
-Yes, good ol’ Pong! This is a very, very basic version of the game, but we hope that you enjoy it very, very much.
-It is 2-player only, so grab a friend and see who starts to nod off first to be able to score on them!
-https://slydogstudios.org/
