@@ -1,4 +1,0 @@
-Froggy 1K
-
-Here is a homebrew title which gives a similar classic Frogger game-play.
-Release Date	01 January 2000
