@@ -11,43 +11,7 @@
           <publisher>HOMEBREW ROM</publisher>
           <players>1</players>
           <genre>31 IN 1 REAL GAME!</genre>
-      </game> 
-        <game>
-          <path>./2048.nes</path>
-          <name>2048</name>
-          <desc>2048 is a numbers game where you fuse two of the same number in a grid to add them up and try to reach the number 2048. NES adaption of the game 2048.</desc>
-          <image>./2048.png</image>
-          <rating>0</rating>
-          <releasedate>20140528T000000</releasedate>
-          <developer>Tsone</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>2048</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./alterego.nes</path>
-          <name>ALTER EGO</name>
-          <desc>Alter Ego is a logic platformer. You have to switch between them the hero and his alter ego to clear levels. It is a bit similar to the game Binary Land.</desc>
-          <image>./alterego.png</image>
-          <rating>0</rating>
-          <releasedate>20110727T000000</releasedate>
-          <developer>Shiru, Kulor, Denis</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>ALTER EGO</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./ambushed.nes</path>
-          <name>AMBUSHED</name>
-          <desc>You&apos;re walking down the street and suddenly, from a couple of attached buildings that are across the street, you are ambushed by multiple gunmen...</desc>
-          <image>./ambushed.png</image>
-          <rating>0</rating>
-          <releasedate>20150615T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>AMBUSHED</genre>
-          <players>1</players>
-      </game>      
+      </game>    
         <game>
           <path>./assimilate.nes</path>
           <name>ASSIMILATE</name>
@@ -85,54 +49,6 @@
           <players>1</players>
       </game>
         <game>
-          <path>./blurredlines2048.nes</path>
-          <name>BLURRED LINES 2048</name>
-          <desc>It is a remake of the popular mobile game 2048, but enhanced with the music of Blurred Lines. It is a shot-for-shot recreation of the music video complete with dancing half-naked ladies and music that is very accurate to the original song.</desc>
-          <image>./blurredlines2048.png</image>
-          <rating>0</rating>
-          <releasedate>20160306T000000</releasedate>
-          <developer>Ray Dempsey</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>BLURRED LINES 2048</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./bombarray.nes</path>
-          <name>BOMB ARRAY</name>
-          <desc>You have been called in to level various buildings that are harboring ninja terrorists! Using your plane and bomb-aiming skill, drop bombs until you finish them off, then move to the next area.</desc>
-          <image>./bombarray.png</image>
-          <rating>0</rating>
-          <releasedate>20160829T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>BOMB ARRAY</genre>
-          <players>1</players>
-      </game>            
-        <game>
-          <path>./bombsweeper.nes</path>
-          <name>BOMB SWEEPER</name>
-          <desc>Clone of an old game &amp; watch game from 1987 called Bomb Sweeper. You are John Solver, fearless bomb squad person, who has to save the city from Jack, a demented criminal who is trying to blow it all up with his bombs. Each level is a maze and you have to move around walls to be able to reach a bomb, but it&apos;s not as easy as it seems as not just any wall can be moved (obviously). If you don&apos;t make it to the bomb in time, it will explode and you&apos;re toasted (and loose a life). The game includes no less than 99 levels, so get gaming!</desc>
-          <image>./bombsweeper.png</image>
-          <rating>0</rating>
-          <releasedate>20020401T000000</releasedate>
-          <developer>Snowbro</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>BOMB SWEEPER</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./boxboy.nes</path>
-          <name>BOX BOY</name>
-          <desc>Arrange the colored boxes in the correct order! Complete ten color sets to advance to the next level! Finish all 6 levels to win the game!</desc>
-          <image>./boxboy.png</image>
-          <rating>0</rating>
-          <releasedate>20030101T000000</releasedate>
-          <developer>Neal Tew</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>BOX BOY</genre>
-          <players>1</players>
-      </game>
-        <game>
           <path>./bronyblaster.nes</path>
           <name>BRONY BLASTER</name>
           <desc>The story is that MLP got cancelled and bronies are going mad, rioting all over the world. They have taken over buildings and you have to free them. The game is going to be a platformer but for now it&apos;s more of a boss rush than anything else, but still gives you an idea of the game... Use A to jump, B to attack and arrow keys to move (Duh!) Start pauses the game (Re-Duh!). This game is not meant to be taken seriously, it&apos;s just a joke.</desc>
@@ -145,42 +61,6 @@
           <players>1</players>
       </game>      
         <game>
-          <path>./chase.nes</path>
-          <name>CHASE</name>
-          <desc>You play as a green faced thief and must move around in a Pacman like maze collecting all the golden gems to finish the level. Just watch out for the enemy police around you that increase in number with each level, or it&apos;s a life lost!</desc>
-          <image>./chase.png</image>
-          <rating>0</rating>
-          <releasedate>20020401T000000</releasedate>
-          <developer>Shiru</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>CHASE</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./cl1k.nes</path>
-          <name>CL1K</name>
-          <desc>Move Clik around and grab the viruses, but don&apos;t get hit by the Shokr enemies!</desc>
-          <image>./cl1k.png</image>
-          <rating>0</rating>
-          <releasedate>20170611T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>CL1K</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./cyo.nes</path>
-          <name>CYO</name>
-          <desc>Cyo is a simple minimal NES shooting game which is entirely designed and coded by Nemesys.</desc>
-          <image>./cyo.png</image>
-          <rating>0</rating>
-          <releasedate>20150101T000000</releasedate>
-          <developer>Nemesys</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>CYO</genre>
-          <players>1</players>
-      </game>
-        <game>
           <path>./dabg.nes</path>
           <name>DOUBLE ACTION BLASTER GUYS</name>
           <desc>Action game.</desc>
@@ -190,42 +70,6 @@
           <developer>NovaSquirrel</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>DOUBLE ACTION BLASTER GUYS</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./debrisdodger.nes</path>
-          <name>DEBRIS DODGER</name>
-          <desc>Guide your satellite launcher through the different layers of the atmosphere and successfully get to the exosphere to win the game. Use the d-pad to move the launcher. Before the game starts, use the Select button to switch back-and-forth between Normal and Hard mode.</desc>
-          <image>./debrisdodger.png</image>
-          <rating>0</rating>
-          <releasedate>20170520T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>DEBRIS DODGER</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./dpadhero.nes</path>
-          <name>D-PAD HERO I</name>
-          <desc>D-Pad Hero I is a series of rhythm/music games for the Nintendo Entertainment System (NES). A funny NES version of Guitar Hero.</desc>
-          <image>./dpadhero.png</image>
-          <rating>0</rating>
-          <releasedate>20090224T000000</releasedate>
-          <developer>Dpadhero</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>D-PAD HERO I</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./dpadhero2.nes</path>
-          <name>D-PAD HERO II</name>
-          <desc>D-Pad Hero II is a series of rhythm/music games for the Nintendo Entertainment System (NES)</desc>
-          <image>./dpadhero2.png</image>
-          <rating>0</rating>
-          <releasedate>20100214T000000</releasedate>
-          <developer>Dpadhero</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>D-PAD HERO II</genre>
           <players>1</players>
       </game>
         <game>
@@ -241,42 +85,6 @@
           <players>1</players>
       </game>
         <game>
-          <path>./dushlan.nes</path>
-          <name>DUSHLAN</name>
-          <desc>It&apos;s that game with the blocks, but not being Tetris.</desc>
-          <image>./dushlan.png</image>
-          <rating>0</rating>
-          <releasedate>20160101T000000</releasedate>
-          <developer>Peter McQuillan</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>DUSHLAN</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./fhbg.nes</path>
-          <name>FORHEAD BLOCK GUY</name>
-          <desc>In this platformer you throw blocks at your enemies to proceed through the game.</desc>
-          <image>./fhbg.png</image>
-          <rating>0</rating>
-          <releasedate>20110526T000000</releasedate>
-          <developer>NovaYoshi</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>FORHEAD BLOCK GUY</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./fighterf8000.nes</path>
-          <name>FIGHTER F-8000</name>
-          <desc>Here is a simple homebrew where you shoot down enemy fighter jets.</desc>
-          <image>./fighterf8000.png</image>
-          <rating>0</rating>
-          <releasedate>20080310T000000</releasedate>
-          <developer>HOMEBREW ROM</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>FIGHTER F-8000</genre>
-          <players>1</players>
-      </game>               
-        <game>
           <path>./flappybird.nes</path>
           <name>FLAPPY BIRD</name>
           <desc>Flappy Bird is a one button game where you need to get a bird trough pipes, while not colliding with it. As said there is only one button, so with this button you can give your bird some height, but the height is being reduced immediate again. So you need to keep clicking and keep the correct height, which isn&apos;t easy at all.</desc>
@@ -286,18 +94,6 @@
           <developer>Nioreh</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>FLAPPY BIRD</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./flappyblock.nes</path>
-          <name>FLAPPY BLOCK</name>
-          <desc>The title is exactly what it sounds like. Yes, we here at SlyDog Studios decided to jump on the bandwagon as well. We created our very own kind of clone of the game that everyone seems to love, but went ahead and tried for a 1k version of it.</desc>
-          <image>./flappyblock.png</image>
-          <rating>0</rating>
-          <releasedate>20150615T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>FLAPPY BLOCK</genre>
           <players>1</players>
       </game>
        <game>
@@ -313,66 +109,6 @@
           <players>1</players>
        </game>
         <game>
-          <path>./forpoints.nes</path>
-          <name>FOR POINTS</name>
-          <desc>Why did the chicken cross the road? For Points, of course! Get the chicken across the road to get some points. Don&apos;t get hit by a car though. Chickens are pretty defenseless against cars. One hit and it&apos;s game over. Game created by SlyDog Studios.</desc>
-          <image>./forpoints.png</image>
-          <rating>0</rating>
-          <releasedate>20140522T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>FOR POINTS</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./froggy1k.nes</path>
-          <name>FROGGY 1K</name>
-          <desc>Here is a homebrew title which gives a similar classic Frogger game-play. Ultra easy Frogger clone for the nes, just avoid the cars and get frog to other side of bank.</desc>
-          <image>./froggy1k.png</image>
-          <rating>0</rating>
-          <releasedate>20020915T000000</releasedate>
-          <developer>HOMEBREW ROM</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>FROGGY 1K</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./galaxxon.nes</path>
-          <name>GALAXXON</name>
-          <desc>This homebrew release is a vertical space shooter where you blast alien forces.</desc>
-          <image>./galaxxon.png</image>
-          <rating>0</rating>
-          <releasedate>20071107T000000</releasedate>
-          <developer>Psych Software</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>GALAXXON</genre>
-          <players>1</players>
-      </game>          
-        <game>
-          <path>./galaxypatrolenhanced.nes</path>
-          <name>GALAXY PATROL ENHANCED</name>
-          <desc>In this homebrew release you need to collect fuel pellets and avoid colliding with space debris.</desc>
-          <image>./galaxypatrolenhanced.png</image>
-          <rating>0</rating>
-          <releasedate>20140609T000000</releasedate>
-          <developer>Michael Martin</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>GALAXY PATROL ENHANCED</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./gameoflife.nes</path>
-          <name>GAME OF LIFE</name>
-          <desc>The game of life is a cellular automaton generator.</desc>
-          <image>./gameoflife.png</image>
-          <rating>0</rating>
-          <releasedate>20140609T000000</releasedate>
-          <developer>YGGI</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>GAME OF LIFE</genre>
-          <players>1</players>
-      </game>       
-        <game>
           <path>./gravedigger.nes</path>
           <name>GRAVEDIGGER</name>
           <desc>Here is a homebrew release where you play as the devil avoiding bats and dig up headstones to restore the graveyard.</desc>
@@ -382,42 +118,6 @@
           <developer>Tarnow</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>GRAVEDIGGER</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./gsm.nes</path>
-          <name>GSM</name>
-          <desc>You&apos;re in a submarine, and you&apos;re hot on the trail of another enemy sub. It seems to be pulling away from you. The decision was made by your superior to launch Guidance System Magellan, the latest remote-controlled rocket technology in submarine warfare! Guide the weapon through seaweed to get 100 points and win the day! Use the D-Pad to move left or right. The game will speed up as you progress further. Good luck!</desc>
-          <image>./gsm.png</image>
-          <rating>0</rating>
-          <releasedate>20160118T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>GSM</genre>
-          <players>1</players>
-      </game>               
-        <game>
-          <path>./hotlogic.nes</path>
-          <name>HOT LOGIC</name>
-          <desc>Hot Logic is a puzzle game where your mission is to eliminate all of the bombs without getting stuck in one area or falling to your death in the lava.</desc>
-          <image>./hotlogic.png</image>
-          <rating>0</rating>
-          <releasedate>20040921T000000</releasedate>
-          <developer>Eric Wright</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>HOT LOGIC</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./hotseatharry.nes</path>
-          <name>HOT SEAT HARRY</name>
-          <desc>The year is 7250 AD, and the judicial systems of the world have crumbled. Civil and Criminal cases are now settled in an arena-style trial to the death. The Plaintiff and the Defendant are strapped into modified Electric Chairs and forced to use their legs to push the "Hydro-Electric Foot Pedals", which, therefore, in turn, causes an electric current to course through his/her/it&apos;s opponent&apos;s body. There is no settlement. There is no plea-bargain. Electric Justice for All!!! That&apos;s how the story of Strangulation Games&apos; first release goes, a game which sure would&apos;ve been a killer if it had been released back in the NES games and published by Active Enterprises or Color Dreams. Your objective of the game basicly is to hit your joypad A button over and over until it comes loose and drop off. Every time you win the color on the screen changes, very fun indeed!!</desc>
-          <image>./hotseatharry.png</image>
-          <rating>0</rating>
-          <releasedate>20020101T000000</releasedate>
-          <developer>Memblers</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>HOT SEAT HARRY</genre>
           <players>1</players>
       </game>
         <game>
@@ -445,18 +145,6 @@
           <players>1</players>
       </game>     
         <game>
-          <path>./inversion.nes</path>
-          <name>INVERSION</name>
-          <desc>A boy named "Satoshi" form human village suffers from unique type of solor blindness-he can see things as either black or white. However, Satoshi have also a special ability, thanks to it he can change the "State of Darkness". It allows him to make some object solid and vice versa! Your aim in the game is to collect all keys from each map to open doors leading to next level. Use B button to change state of darkness.This will result in changing map colors and, more importantly, solidness of objects. Use springs, moving platforms, vertical conveyor belts and levers to your adventage! Satoshi is pretty weak kid- he will die if hit by anything hostile, like bullets, spikes or ghost. Also, Satoshi can&apos;t survive going off screen, so be careful.</desc>
-          <image>./inversion.png</image>
-          <rating>0</rating>
-          <releasedate>20120304T000000</releasedate>
-          <developer>Red Moon Games</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>INVERSION</genre>
-          <players>1</players>
-      </game>         
-        <game>
           <path>./jetpaco.nes</path>
           <name>JET PACO - SPACE AGENT!</name>
           <desc>Taking control of Paco Rebollez, you&apos;re tasked with finding and gathering energonia crystals, a rare and unusual material used to energise spacecrafts. To help with his journey, Paco is equipped with a state of the art jet pack which allows our homebrew hero to glide around the many rooms of an abandonded ship containing gems galore.</desc>
@@ -468,18 +156,6 @@
           <genre>JET PACO - SPACE AGENT!</genre>
           <players>1</players>
       </game>      
-        <game>
-          <path>./kyff.nes</path>
-          <name>K.Y.F.F.</name>
-          <desc>K.Y.F.F. is a 4-player game that allows all four people to compete against each other in a battle royale in the style of classic beat&apos;em up games. There are a total of eight different attacks at the disposal of each player. Note that it is only a multi-player game, and no AI is in it.</desc>
-          <image>./kyff.png</image>
-          <rating>0</rating>
-          <releasedate>20130402T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>K.Y.F.F.</genre>
-          <players>4</players>
-      </game>
         <game>
           <path>./lala.nes</path>
           <name>LALA THE MAGICAL</name>
@@ -493,30 +169,6 @@
           <players>1</players>
       </game>      
         <game>
-          <path>./lanmaster.nes</path>
-          <name>LAN MASTER</name>
-          <desc>Use your skills as a networking master to connect all the computers, 50 levels in total!</desc>
-          <image>./lanmaster.png</image>
-          <rating>0</rating>
-          <releasedate>20110610T000000</releasedate>
-          <developer>Shiru</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>LAN MASTER</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./lawnmower.nes</path>
-          <name>LAWN MOWER</name>
-          <desc>Cut the grass and don&apos;t run out of time. Collect gas cans to extend your mowing session.</desc>
-          <image>./lawnmower.png</image>
-          <rating>0</rating>
-          <releasedate>20110530T000000</releasedate>
-          <developer>Shiru</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>LAWN MOWER</genre>
-          <players>1</players>
-      </game>
-        <game>
           <path>./lunarlimit.nes</path>
           <name>LUNAR LIMIT</name>
           <desc>An early 80s arcade shooter for the NES. Play it on an emulator or NES hardware! Lunar Limit puts you in control of a miniature version of planet earth, "Mini Earth", and your faithful satellite, "The Moon Cannon", in an all-out-war against evil Atari invaders.</desc>
@@ -526,42 +178,6 @@
           <developer>Pubby</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>LUNAR LIMIT</genre>
-          <players>1</players>
-      </game>   
-        <game>
-          <path>./madwizard.nes</path>
-          <name>MAD WIZARD</name>
-          <desc>The evil summoner Amondus from The Order of the Talon has taken over Prim, Hekl&apos;s once happy homeland. And nothing drives a wizard more crazy than having their territory trampled on! Can you help Hekl defeat the enemies that Amondus has populated throughout the landscape? To do so, you will need to master the art of levitation, find magic spells that will assist you in reaching new areas, and upgrade your weapons. All of these will be necessary in order to give Hekl the power he needs to restore peace to Prim. Do you have what it takes? If you dare, venture into this, the first installment of the Candelabra series!</desc>
-          <image>./madwizard.png</image>
-          <rating>0</rating>
-          <releasedate>20140101T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MAD WIZARD</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./magicfloor.nes</path>
-          <name>MAGIC FLOOR</name>
-          <desc>Here is a puzzle game which involves you as a boulder which rolls across multicolored tiles.</desc>
-          <image>./magicfloor.png</image>
-          <rating>0</rating>
-          <releasedate>20120924T000000</releasedate>
-          <developer>Martin Korth</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MAGIC FLOOR</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./manhole.nes</path>
-          <name>MAN HOLE</name>
-          <desc>In this game you make sure that the people traverse over the area with the help of your umbrella so that they don&apos;t fall down the manholes.</desc>
-          <image>./manhole.png</image>
-          <rating>0</rating>
-          <releasedate>20121106T000000</releasedate>
-          <developer>KZ-S</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MAN HOLE</genre>
           <players>1</players>
       </game>
         <game>
@@ -574,78 +190,6 @@
           <developer>Mitch3a</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>MASHYMASHY</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./masmix.nes</path>
-          <name>MASMIX</name>
-          <desc>In this game the objective is to collect all the gems and get to the exit without being killed by the flying swords and knives.</desc>
-          <image>./masmix.png</image>
-          <rating>0</rating>
-          <releasedate>20140616T000000</releasedate>
-          <developer>Andralojc</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MASMIX</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./memory.nes</path>
-          <name>MEMORY</name>
-          <desc>A game of memory. Very easy if you use a certain method, but here it is! Flip the cards and match them all to win the game. Press Start to begin the game. It should go without saying to use the d-pad to move the cursor around, but there I go saying it. The A button flips them.</desc>
-          <image>./memory.png</image>
-          <rating>0</rating>
-          <releasedate>20150905T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MEMORY</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./mguard.nes</path>
-          <name>METEOR GUARD</name>
-          <desc>You must shoot the asteroids before they fly past you.</desc>
-          <image>./mguard.png</image>
-          <rating>0</rating>
-          <releasedate>20140418T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>METEOR GUARD</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./mguard2.nes</path>
-          <name>METEOR GUARD 2</name>
-          <desc>Resume the meteor blasting adventures of Matthew Campkill! On the way home from his last mission, he got caught in an asteroid belt and must destroy enough of them to make the course to Earth more safe for himself. Push in a direction to move in that direction, and push the B button to fire.</desc>
-          <image>./mguard2.png</image>
-          <rating>0</rating>
-          <releasedate>20150615T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>METEOR GUARD 2</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./midnightjogger.nes</path>
-          <name>MIDNIGHT JOGGER</name>
-          <desc>This is a first-person jogging simulator... of sorts. You\&apos;re jogging at night on a country road, but beware of all the potholes! Hit one of them and you twist your ankle and lose the game. So what&apos;s a person to do, jog around them? Never. You must leap over them. The more potholes that appear, the more frustrated you become, and start picking up speed just so you can get through the run more quickly and be done with it. Successfully leap over 100 of them, and you win the game! Use the Start button to begin the game, or reset the game during a game over. Use the A button to jump. Happy trails!</desc>
-          <image>./midnightjogger.png</image>
-          <rating>0</rating>
-          <releasedate>20150615T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MIDNIGHT JOGGER</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./milionesy.nes</path>
-          <name>MILIONESY</name>
-          <desc>Homebrew game which based on "Who Wants To Be A Millionare", but it asks Nintendo related questions.</desc>
-          <image>./milionesy.png</image>
-          <rating>0</rating>
-          <releasedate>20140331T000000</releasedate>
-          <developer>Denine</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MILIONESY</genre>
           <players>1</players>
       </game>
         <game>
@@ -671,66 +215,6 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>MOUSER II</genre>
           <players>1</players>
-      </game>      
-        <game>
-          <path>./multidude.nes</path>
-          <name>MULTIDUDE</name>
-          <desc>In MultiDude you control of a team of characters with various abilities, that must work together so all of them can reach available exits on each level.</desc>
-          <image>./multidude.png</image>
-          <rating>0</rating>
-          <releasedate>20150125T000000</releasedate>
-          <developer>Retrosouls</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MULTIDUDE</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./munchieattack.nes</path>
-          <name>MUNCHIE ATTACK</name>
-          <desc>The story: Ninja have taken leaders of first-world nations hostage, and are threatening to increase subsidies for domestic food producers to even more insane levels than usual! As the hungriest person in the world, it is your job to eat everything in sight to put an end to their nefarious plans. Only you can prevent world-wide poverty and hunger! You must act now!</desc>
-          <image>./munchieattack.png</image>
-          <rating>0</rating>
-          <releasedate>20030929T000000</releasedate>
-          <developer>Strangulation Games</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>MUNCHIE ATTACK</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./nesnake.nes</path>
-          <name>NESNAKE</name>
-          <desc>Arcade game like classic Snake game.</desc>
-          <image>./nesnake.png</image>
-          <rating>0</rating>
-          <releasedate>20040711T000000</releasedate>
-          <developer>Matrixz</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>NESNAKE</genre>
-          <players>1</players>
-      </game>          
-        <game>
-          <path>./nesnake2.nes</path>
-          <name>NESNAKE 2</name>
-          <desc>Arcade game like Snake.</desc>
-          <image>./nesnake2.png</image>
-          <rating>0</rating>
-          <releasedate>20080902T000000</releasedate>
-          <developer>Matrixz</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>NESNAKE 2</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./ninjamuncher.nes</path>
-          <name>NINJA MUNCHER</name>
-          <desc>Arcade game like Snake.</desc>
-          <image>./ninjamuncher.png</image>
-          <rating>0</rating>
-          <releasedate>20150903T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>NINJA MUNCHER</genre>
-          <players>1</players>
       </game>
         <game>
           <path>./nomolos.nes</path>
@@ -742,18 +226,6 @@
           <developer>Gradual Games</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>NOMOLOS: STORMING THE CATSLE</genre>
-          <players>1</players>
-      </game>       
-        <game>
-          <path>./nopoints.nes</path>
-          <name>NO POINTS</name>
-          <desc>No Points! That is the goal of this game that takes place from the perspective of a driver in the game of For Points. Starting off with 99 points, the chickens trying to cross the road lose a point for each one that gets hit. Hit your 100th chicken, and you win the game, successfully denying the chickens their points! Be careful though. If you miss more than 9 chickens, the game is over. Use Left and Right on the Directional Pad to move your car, and the Start button to begin the game, or reset it after the game is over.</desc>
-          <image>./nopoints.png</image>
-          <rating>0</rating>
-          <releasedate>20150722T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>NO POINTS</genre>
           <players>1</players>
       </game>
        <game>
@@ -768,150 +240,6 @@
           <genre>NOVA THE SQUIRREL</genre>
           <players>1</players>
        </game>
-        <game>
-          <path>./obstacletrek.nes</path>
-          <name>OBSTACLE TREK</name>
-          <desc>Like running? Like jumping? Do you even like sliding? Then Obstacle Trek is the game for you! Dodge all the obstacles that come your way. Press A to jump, and Down on the Directional Pad to slide. Press Start to begin the game, and also to reset when the game is over. Your character will be mighty excited if he completes this randomized obstacle course, so give him a hand!</desc>
-          <image>./obstacletrek.png</image>
-          <rating>0</rating>
-          <releasedate>20150615T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>OBSTACLE TREK</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./owlia.nes</path>
-          <name>THE LEGENDS OF OWLIA</name>
-          <desc>Action-adventure game inspired by StarTropics, Crystalis, and the Legend of Zelda.</desc>
-          <image>./owlia.png</image>
-          <rating>0</rating>
-          <releasedate>20160601T000000</releasedate>
-          <developer>Gradual Games</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>THE LEGENDS OF OWLIA</genre>
-          <players>1</players>
-      </game>    
-        <game>
-          <path>./paintordraw.nes</path>
-          <name>PAINT OR DRAW</name>
-          <desc>A new NES drawing game. It has 2 modes: Paint mode, you choose any 4 colors for the palette. Draw mode, you choose any color, and drawing darkens (or lightens) like a pencil/eraser. Doodle anything you want. Your favorite NES character? Or you can use this as a game development tool, to sketch your sprites within the emulator itself.</desc>
-          <image>./paintordraw.png</image>
-          <rating>0</rating>
-          <releasedate>20150403T000000</releasedate>
-          <developer>Dougeff</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>PAINT OR DRAW</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./pcbartist.nes</path>
-          <name>PCB ARTIST</name>
-          <desc>In PCB Artist you have to manually complete circuits with increasing difficulty on a PCB (Printed Circuit Board).</desc>
-          <image>./pcbartist.png</image>
-          <rating>0</rating>
-          <releasedate>20150125T000000</releasedate>
-          <developer>InfiniteNESLives</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>PCB ARTIST</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./pegs.nes</path>
-          <name>PEGS</name>
-          <desc>Homebrew release which simulates triangular peg-board puzzle game.</desc>
-          <image>./pegs.png</image>
-          <rating>0</rating>
-          <releasedate>20080101T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>PEGS</genre>
-          <players>1</players>
-      </game>       
-        <game>
-          <path>./pitfall.nes</path>
-          <name>PITFALL: THE UNOFFICIAL ADVENTURE</name>
-          <desc>The player controls Pitfall Harry and is tasked with collecting all the treasures in a jungle within 20 minutes while avoiding obstacles and hazards.</desc>
-          <image>./pitfall.png</image>
-          <rating>0</rating>
-          <releasedate>20071128T000000</releasedate>
-          <developer>Neverware</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>PITFALL: THE UNOFFICIAL ADVENTURE</genre>
-          <players>1</players>
-      </game>       
-        <game>
-          <path>./pogocats.nes</path>
-          <name>POGO CATS</name>
-          <desc>Here is a homebrew title where you play as a greaser or pinup girl and pogo stick your way upwards to complete levels.</desc>
-          <image>./pogocats.png</image>
-          <rating>0</rating>
-          <releasedate>20120311T000000</releasedate>
-          <developer>YGGI</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>POGO CATS</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./pong1k.nes</path>
-          <name>PONG 1K</name>
-          <desc>Here is a homebrew version of Pong by SlyDog Studios.</desc>
-          <image>./pong1k.png</image>
-          <rating>0</rating>
-          <releasedate>20140418T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>PONG 1K</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./pong1k2p.nes</path>
-          <name>PONG 1K 2P</name>
-          <desc>Yes, good ol&apos; Pong! This is a very, very basic version of the game, but we hope that you enjoy it very, very much. It is 2-player only, so grab a friend and see who starts to nod off first to be able to score on them!</desc>
-          <image>./pong1k2p.png</image>
-          <rating>0</rating>
-          <releasedate>20150615T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>PONG 1K 2P</genre>
-          <players>2</players>
-      </game>              
-        <game>
-          <path>./pong198x.nes</path>
-          <name>PONG 198X</name>
-          <desc>You are about to experience pong like you never have before... as if nintendo made it.. For 1 or 2 players, all new animations and effects as well as an easter egg or two :)</desc>
-          <image>./pong198x.png</image>
-          <rating>0</rating>
-          <releasedate>20140401T000000</releasedate>
-          <developer>Dr Dementia</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>PONG 198X</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./pongandheadbounce.nes</path>
-          <name>PONG &amp; HEAD BOUNCE</name>
-          <desc>2in1 pong game &amp; head bounce homebrew games for the NES.</desc>
-          <image>./pongandheadbounce.png</image>
-          <rating>0</rating>
-          <releasedate>20071107T000000</releasedate>
-          <developer>Bob Rost</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>PONG &amp; HEAD BOUNCE</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./puttputt.nes</path>
-          <name>PUTT PUTT</name>
-          <desc>Here is a homebrew release which simulates a miniature golf course game.</desc>
-          <image>./puttputt.png</image>
-          <rating>0</rating>
-          <releasedate>20071108T000000</releasedate>
-          <developer>Jason Reed</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>PUTT PUTT</genre>
-          <players>1</players>
-      </game>
         <game>
           <path>./ralph4.nes</path>
           <name>RALPH 4</name>
@@ -936,18 +264,6 @@
           <genre>RHDE FURNITURE FIGHT</genre>
           <players>2</players>
       </game>
-        <game>
-          <path>./riseofamondus.nes</path>
-          <name>RISE OF AMONDUS</name>
-          <desc>Amondus has big plans for the land of Prim and its inhabitants. In order to carry out his nefarious plot, he must force the local goblin population to serve him and work against his biggest threat, Hekl! Take control of Amondus, his familiar Charwit, and the leader of the gargoyles, General Rant. Capture goblins to build an army worthy of a tyrant, and force them to steal all of Hekl&apos;s spells and mystical abilities! Before this can be accomplished, you must face the champions of the Primwoods, including its grand protector, The Elderwood! Are you wicked enough to carry out these heinous atrocities? Can you be villainous and enslave a population of relatively peaceful goblins? Only you can answer these questions in The Rise of Amondus, an exciting and action-packed prequel to The Mad Wizard, and the second installment of The Candelabra Epic!</desc>
-          <image>./riseofamondus.png</image>
-          <rating>0</rating>
-          <releasedate>20150101T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>RISE OF AMONDUS</genre>
-          <players>1</players>
-      </game>
        <game>
           <path>./roboninjaclimb.nes</path>
           <name>ROBO-NINJA CLIMB</name>
@@ -961,18 +277,6 @@
           <players>1</players>
        </game>
         <game>
-          <path>./rockpaperscissors.nes</path>
-          <name>ROCK PAPER SCISSORS</name>
-          <desc>This game is a puzzle game adaptation of the classic Rock, Paper, Scissors game. Rock beats Scissors, Paper beats Rock and Scissors beats Paper. The goal of the game is to eliminate figures in the board by stacking a figure on top of the one that is beaten by this figure. The game consists of ten levels (0 to 9), you advance to the next level by scoring a certain amount of points. Every time you elimiate a figure a point will be awarded. You beat the game by successfully beating level 9. WRYGames, 2015</desc>
-          <image>./rockpaperscissors.png</image>
-          <rating>0</rating>
-          <releasedate>20150404T000000</releasedate>
-          <developer>WryGames</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>ROCK PAPER SCISSORS</genre>
-          <players>1</players>
-      </game>
-        <game>
           <path>./roulette.nes</path>
           <name>RUSSIAN ROULETTE [Damian]</name>
           <desc>Here is a home-brew title which simulates a game of Russian Roulette. A zapper can also be used in playing this game. Released By: Damian Yerrick</desc>
@@ -983,19 +287,7 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>RUSSIAN ROULETTE [Damian]</genre>
           <players>1</players>
-      </game>
-        <game>
-          <path>./russianroulette.nes</path>
-          <name>RUSSIAN ROULETTE [Quest Games]</name>
-          <desc>Russian Roulette is a game that involves inserting a round (or rounds) into a chamber of a revolver, spinning it, and pulling the trigger upon one&apos;s own head. It&apos;s apparently a dangerous game.</desc>
-          <image>./russianroulette.png</image>
-          <rating>0</rating>
-          <releasedate>20100704T000000</releasedate>
-          <developer>Quest Games</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>RUSSIAN ROULETTE [Quest Games]</genre>
-          <players>1</players>
-      </game>             
+      </game>           
         <game>
           <path>./sgthelmet.nes</path>
           <name>SGT. HELMET - TRAINING DAY</name>
@@ -1009,18 +301,6 @@
           <players>1</players>
       </game>
         <game>
-          <path>./simonesays.nes</path>
-          <name>SIMONE SAYS</name>
-          <desc>Simon&apos;s significant other is here to try and stump you with the same game that he failed at stumping you with! Push Start to begin the game. Press the d-pad in the direction and order of the lights that appear on-screen. Miss once, and you lose. When you complete 16 iterations of the game, you will have also conquered Simone, leaving them a miserable, unhappy and arguing couple. I hope you&apos;re proud of yourself!</desc>
-          <image>./simonesays.png</image>
-          <rating>0</rating>
-          <releasedate>20160106T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>SIMONE SAYS</genre>
-          <players>1</players>
-      </game>
-        <game>
           <path>./sir-ababol-remastered.nes</path>
           <name>SIR ADABOL REMASTERED</name>
           <desc>Control Sir Ababol accross the Monegrian fields and gather 24 ababol flowers. To be able to progress in your journey you'll need some keys you will be able to use to open several doors to gain access to different sections. You can jump on the baddies to get rid of them, too. Be patient, think before you jump, and you'll be successful!</desc>
@@ -1031,42 +311,6 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>SIR ADABOL REMASTERED</genre>
           <players>1</players>
-      </game>      
-        <game>
-          <path>./snailmaze.nes</path>
-          <name>SNAIL MAZE</name>
-          <desc>In this home-brew release you have to guide the snail through 12 complex mazes to complete this game.</desc>
-          <image>./snailmaze.png</image>
-          <rating>0</rating>
-          <releasedate>20120304T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>SNAIL MAZE</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./sokoban.nes</path>
-          <name>SOKOBAN</name>
-          <desc>Sokoban game by Johannes Holmber for NES. It&apos;s Sokoban, it puzzling and addictive...</desc>
-          <image>./sokoban.png</image>
-          <rating>0</rating>
-          <releasedate>20001107T000000</releasedate>
-          <developer>Johannes Holmberg</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>SOKOBAN</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./solarwars.nes</path>
-          <name>SOLAR WARS</name>
-          <desc>sometime in the 22nd century, mankind felt cocky enough to engage in a global nuclear war. As a result, almost the entire world population was wiped out. All that are left are a couple of small, feuding factions of people. Since there is not enough arable land left on Earth any more, the warring factions took to the stars to fight over the celestial bodies: The Planets. You and an opponent are on opposing sides of the war. Armed with your high-powered spatial battletanks, you will have to carve your own slice out of the solar system.</desc>
-          <image>./solarwars.png</image>
-          <rating>0</rating>
-          <releasedate>20010419T000000</releasedate>
-          <developer>Chris M. Cowell</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>SOLAR WARS</genre>
-          <players>1-2</players>
       </game>
        <game>
           <path>./spaceymcracey.nes</path>
@@ -1081,54 +325,6 @@
           <players>1-4</players>
        </game>
         <game>
-          <path>./sting.nes</path>
-          <name>STING</name>
-          <desc>Plays like Solar Jetman, Awesome! :-) The title of actually pretty cool too as it&apos;s short for... Somewhat Thrust Inspried NES Game</desc>
-          <image>./sting.png</image>
-          <rating>0</rating>
-          <releasedate>20081113T000000</releasedate>
-          <developer>Smkdan</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>STING</genre>
-          <players>1</players>
-      </game>             
-        <game>
-          <path>./streemerz.nes</path>
-          <name>STREEMERZ</name>
-          <desc>Try climbing to the top of this one by throwing streamers and climbing them. On your way up you better watch out for the various pie throwing clowns, burning candles and bouncing balls, because if they get you, you&apos;ll die a little each time.</desc>
-          <image>./streemerz.png</image>
-          <rating>0</rating>
-          <releasedate>20130102T000000</releasedate>
-          <developer>TheFox</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>STREEMERZ</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./sudoku.nes</path>
-          <name>SUDOKU</name>
-          <desc>Sudoku game for the NES.</desc>
-          <image>./sudoku.png</image>
-          <rating>0</rating>
-          <releasedate>20140609T000000</releasedate>
-          <developer>Al Bailey</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>SUDOKU</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./superpainter.nes</path>
-          <name>SUPER PAINTER</name>
-          <desc>A painter &apos;Mario style&apos; game with great music.</desc>
-          <image>./superpainter.png</image>
-          <rating>0</rating>
-          <releasedate>20150126T000000</releasedate>
-          <developer>Retrosouls</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>SUPER PAINTER</genre>
-          <players>1</players>
-      </game> 
-        <game>
           <path>./superpakpak.nes</path>
           <name>SUPER PAKPAK</name>
           <desc>SUPER PAKPAK is a 2-4 player Spacewar!|Thrust|Gravity force style game. At least two players are needed to start the game. HOLD button A at the start menu to begin a game. The game will begin after the counter counts to zero. In two player games, you need to get two kills in a round before the level ends. In three or four player games, the level ends when there is only one ship remaining. There are 12 scenes in the game, after the 12th scene the game is reverted back to the first scene. After any player gets 50 points, the game ends and the end screen will appear.</desc>
@@ -1141,52 +337,16 @@
           <players>2-4</players>
       </game>
         <game>
-          <path>./thatswhack.nes</path>
-          <name>THAT&apos;S WHACK!</name>
-          <desc>Similar to the classic game of Whack-A-Mole, you must pop the dummy when they show themselves from behind the pipes. Push in the direction that they appear at to successfully knock them back down. Hit 100 of them and you win the game, but miss 5 of them and it&apos;s game over. They will get progressively faster, so keep on your toes!</desc>
-          <image>./thatswhack.png</image>
+          <path>./owlia.nes</path>
+          <name>THE LEGENDS OF OWLIA</name>
+          <desc>Action-adventure game inspired by StarTropics, Crystalis, and the Legend of Zelda.</desc>
+          <image>./owlia.png</image>
           <rating>0</rating>
-          <releasedate>20150615T000000</releasedate>
-          <developer>SlyDog Studios</developer>
+          <releasedate>20160601T000000</releasedate>
+          <developer>Gradual Games</developer>
           <publisher>HOMEBREW ROM</publisher>
-          <genre>THAT&apos;S WHACK!</genre>
-          <players>2-4</players>
-      </game>      
-        <game>
-          <path>./thegame.nes</path>
-          <name>THE GAME</name>
-          <desc>Homebrew game, where you have to make sure the arrow hits the target. You can adjust speeds and difficulty to accommodate game-play.</desc>
-          <image>./thegame.png</image>
-          <rating>0</rating>
-          <releasedate>20100723T000000</releasedate>
-          <developer>Calvin Weirmaa</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>THE GAME</genre>
+          <genre>THE LEGENDS OF OWLIA</genre>
           <players>1</players>
-      </game>
-        <game>
-          <path>./theinvasion.nes</path>
-          <name>THE INVASION</name>
-          <desc>In The Invasion, you must stop the space aliens from reaching your weapon, which you are in control of. If they do, your game is over! To fend them all off successfully, fend off 14 waves of them. Use the A button to fire, and the D-Pad to move left or right. Get your marksmanship on!</desc>
-          <image>./theinvasion.png</image>
-          <rating>0</rating>
-          <releasedate>20150712T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>THE INVASION</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./theonewiththewalls.nes</path>
-          <name>THE ONE WITH THE WALLS</name>
-          <desc>In The One with the Walls, you leave a wall trail behind you to try and take down the other player! Use your d-pad to move your wall-layer in the direction you think is best to try and trap your opponent, or to make him crash right away. But beware, they have the same capabilities as you! Be the first to win 9 rounds. So grab a friend you wanna stomp in a game, and pop in this 2-player only game from the 1k Series! Press Start to begin each iteration, and A at the end of each round.</desc>
-          <image>./theonewiththewalls.png</image>
-          <rating>0</rating>
-          <releasedate>20160903T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>THE ONE WITH THE WALLS</genre>
-          <players>2</players>
       </game>
        <game>
           <path>./thewit.nes</path>
@@ -1211,31 +371,7 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>THWAITE</genre>
           <players>1</players>
-      </game>
-        <game>
-          <path>./tictactwop.nes</path>
-          <name>TIC TAC TWO P</name>
-          <desc>That&apos;s right, a good ol&apos; game of Tic-Tac-Toe for you and one friend to play. The loser gets their X&apos;s or O&apos;s grayed out, and a stalemate results in all pieces getting the same treatment. At the end of the game, press the Start button to reset the game. The 1st player (X&apos;s) always goes first, so trade controllers after each game if you feel the need! Of course, move the icon with the Directional Pad, and lay down your tile with the A button. Go grab a friend and get busy!</desc>
-          <image>./tictactwop.png</image>
-          <rating>0</rating>
-          <releasedate>20150615T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>TIC TAC TWO P</genre>
-          <players>2</players>
-      </game>      
-        <game>
-          <path>./tictacxo.nes</path>
-          <name>TIC TAC XO</name>
-          <desc>Here is a Tic Tac Toe homebrew game for the NES.</desc>
-          <image>./tictacxo.png</image>
-          <rating>0</rating>
-          <releasedate>20140609T000000</releasedate>
-          <developer>Robert L Bryant</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>TIC TAC XO</genre>
-          <players>1</players>
-      </game>        
+      </game>       
         <game>
           <path>./tigerjenny.nes</path>
           <name>TIGER JENNY</name>
@@ -1272,30 +408,6 @@
           <genre>VIGILANTE NINJA</genre>
           <players>1</players>
       </game> 
-       <game>
-          <path>./viruscleaner.nes</path>
-          <name>VIRUS CLEANER</name>
-          <desc>Goal is to sweep away Viri from the playing field, while it&apos;s being protected by some sort of electric waves going around the screen.</desc>
-          <image>./viruscleaner.png</image>
-          <rating>0</rating>
-          <releasedate>20140609T000000</releasedate>
-          <developer>SlyDog Studios</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>VIRUS CLEANER</genre>
-          <players>1</players>
-      </game>
-        <game>
-          <path>./whackamario.nes</path>
-          <name>WHACK-A-MARIO</name>
-          <desc>Here is a simple game of whack-a-mole where you whack Mario&apos;s head as it pops out of pipes.</desc>
-          <image>./whackamario.png</image>
-          <rating>0</rating>
-          <releasedate>20050815T000000</releasedate>
-          <developer>Woahman</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>WHACK-A-MARIO</genre>
-          <players>1</players>
-      </game>
         <game>
           <path>./wo-xiang-niao-niao.nes</path>
           <name>WO XIANG NIAO NIAO</name>
@@ -1306,18 +418,6 @@
           <developer>Mojon Twins</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>WO XIANG NIAO NIAO</genre>
-          <players>1</players>
-      </game>      
-        <game>
-          <path>./wraith.nes</path>
-          <name>WRAITH</name>
-          <desc>In the distant future, mankind is at war with Carcossians. The war has lasted for generations, but the Carcossians&apos; superior forces and firepower have begun to wear on the determined earth forces. The tide of war is turning, and something must be done, or mankind will be lost. But there is hope. A new device, dubbed the Wraith engine, allows a ship to be cloaked in a subspace field, allowing it to pass through solid matter unharmed. So far the device can only work on a small ship and for limited period of time. Earth forces believe that a small vessel fitted with the wraith engine may be able to break through Carcossian defenses to perform a tactical strike against one of their bases. As Toliv Pisan, one of Earth&apos;s top pilots, you have been chosen to pilot one of the Wraith ships and attempt a solo strike against a heavily guarded Carcossian base. Control your ship using the directional pad.  Fire using the B button, and cloak using the A button.  While cloaked you cannot be harmed, but you can only remained cloaked as long as you have energy, which is constantly depleted while cloaked. Your ship is also equipped with high grade plasma bombs.  Normally a small ship like the one you&apos;ll be piloting wouldn&apos;t be able to escape the blast radius after launching one.  However the Wraith engine will allow you to use a bomb and remain unscathed.  To use a bomb, cloak and press the B button. You can also pick up power ups.  There are extra bombs (max 10), extra lives (max 10), extra energy, shields (protects you from one hit), speed, wide shot, and energy reduce (makes cloaking use energy more slowly).You can&apos;t pick up power ups while cloaked, and are hard mode if you shoot a power up it will be destroyed.  You can gain extra powerups by destroying certain groups of enemies! There are three levels of difficulty.  The main difference between them is the starting number of lives and bombs.  On hard mode you additionally have less energy and you&apos;ll have to avoid shooting power ups.</desc>
-          <image>./wraith.png</image>
-          <rating>0</rating>
-          <releasedate>20080621T000000</releasedate>
-          <developer>Tom Livak</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>WRAITH</genre>
           <players>1</players>
       </game>
         <game>
@@ -1330,18 +430,6 @@
           <developer>Mojon Twins</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>YUN</genre>
-          <players>1</players>
-      </game>               
-        <game>
-          <path>./zoomingsecretary.nes</path>
-          <name>ZOOMING SECRETARY</name>
-          <desc>Playing the role of a secretary in her trial period at a new job, you have to work your way through an increasingly difficult week without being fired for failing to answer calls on time. Each single screen level (wrapping on both horizontal and vertical axes) consists of an arrangement of platforms and staircases upon which are placed a number of phones and filing cabinets. When a phone rings, the topic that the call is about is represented by a symbol above the handset - and your task is to run to the matching filing cabinet then answer the call before the phone rings off. It starts of simple enough, with day one based on a symmetrical level with only two phones and two cabinets, but the difficulty soon ramps up with devious platform placement and a variety of obstructive NPC&apos;s thrown into the mix. The boss slows you down with his unhelpful remarks (just like in real life) and chatting with the office gossip-girl can leave you confused and swap over the topic currently held in your single-track mind. Then there&apos;s the delivery guy knocking people over and the oh-so-essential and distracting office romance - although thankfully there is also a coffee machine to provide you with a caffeine-fuelled speed boost to help you overcome all these obstacles. It&apos;s a simple yet compulsive concept that would work equally well as a browser-based casual game or modern console indie title, so to see Zooming Secretary make it&apos;s debut on the original &apos;family computer&apos; is particularly exciting.</desc>
-          <image>./zoomingsecretary.png</image>
-          <rating>0</rating>
-          <releasedate>20111229T000000</releasedate>
-          <developer>Shiru &amp; PinWizz</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>ZOOMING SECRETARY</genre>
           <players>1</players>
       </game>
   </gameList>
