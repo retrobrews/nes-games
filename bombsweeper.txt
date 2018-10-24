@@ -1,9 +1,0 @@
-Bomb Sweeper V0.5
-by Snowbro
-
-Kent Hansen of SnowBro Software fame's clone of an old Game & Watch game from 1987 called Bomb Sweeper. 
-You are John Solver, fearless bomb squad person, who has to save the city from Jack, a demented criminal who is trying to blow it all up with his bombs.
-Each level is a maze and you have to move around walls to be able to reach a bomb, but it's not as easy as it seems as not just any wall can be moved (obviously). 
-If you don't make it to the bomb in time, it will explode and you're toasted (and loose a life). The game includes no less than 99 levels, so get gaming!
-
-https://www.youtube.com/watch?v=VG7-hNjp-5o
