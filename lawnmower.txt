@@ -1,7 +1,0 @@
-Lawn Mower
-by Shiru
-
-An arcade game, you control a lawn mower and cut lawns. Yet another awesome release by Shiru.
-
-http://shiru.untergrund.net/
-https://www.youtube.com/watch?v=LVw-TELhNvk
