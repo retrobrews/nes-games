@@ -1,9 +1,0 @@
-Forehead Block Guy
-By NovaYoshi
-
-Launch blocks from your forehead to stun enemies. Then touch them once stunned to finish the job. Kill all the enemies to proceed to the next level.
-
-FHBG, A.K.A. Forehead Block Guy, is a simple, single-screen platform NES game inspired by Fast Eddie and Gimmick!, and was an entry to the 2011 NESDEV competition.
-The objective is to clear all of the enemies in each level by throwing your blocks to stun them, before stomping on them a la good ol' Super Mario style.
-
-https://www.youtube.com/watch?v=nP5InS9ix1I
