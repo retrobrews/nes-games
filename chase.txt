@@ -1,8 +1,0 @@
-Chase
-by Shiru
-
-You play as a green faced thief and must move around in a Pacman like maze collecting all the golden gems to finish the level. 
-Just watch out for the enemy police around you that increase in number with each level, or it's a life lost!
-
-http://shiru.untergrund.net/
-https://www.youtube.com/watch?v=uaxzEWfwrnQ
