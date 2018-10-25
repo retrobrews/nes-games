@@ -13,6 +13,7 @@ Homebrew NES games:
  - INVADERS MUST DIE<br />
  - JET PACO - SPACE AGENT!<br />
  - LALA THE MAGICAL<br />
+ - LIGHTSHIELDS<br />
  - LUNAR LIMIT<br />
  - MASHYMASHY<br />
  - MINESHAFT<br />
