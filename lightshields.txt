@@ -1,0 +1,31 @@
+LightShields
+by Zutano Games
+2018/02/01
+
+A space-themed 2-player shooter for the Nintendo Entertainment System, submitted to the 2017 NesDev Coding Competition. 
+Each player controls one spaceship and one light shield. Use your shield to deflect your opponent’s bullets back at them, 
+but don’t let your own shield get in the way of your killshot!
+
+Special thanks to Pitfall for the title music, and to Stephen Hutchins for help with the art and animation!
+
+
+Download
+LightShields.nes - Play it in your favorite NES emulator, or try it out on real hardware!
+http://zutanogames.com/assets/roms/LightShields.nes
+
+
+Controls
+    A: Fire a bullet
+    B: Hold your shield stationary
+    D-pad: Move your ship
+    Start: Begin the game or respawn
+    Select: Choose a menu option
+
+Tips & Tricks
+    Shield mode gives both players their own shield to control, while Open mode has a single shield that neither player control.
+    You can only fire one bullet at a time, so aim carefully.
+    Your shield will follow your ship slowly. Using the B button to hold it still will let you peek around it for a quicker shot.
+    When you shoot a shield, it will disintegrate for one second, letting you temporarily shoot through it without bouncing.
+
+© Zutano Games
+http://zutanogames.com/projects/
