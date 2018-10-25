@@ -1,37 +1,36 @@
-Yun
+Yun  (mojon-twins--yun-v5.nes)
 by MojonTwins
+http://www.mojontwins.com/juegos_mojonos/yun-v-5-nes/
 
-Game
-The main goal is helping yun capturing every single being to fill the pantry of her restaurant. 
-The Big Marsh near Lake Poto?a (province of Badajoz), formed by three areas (the marsh wood, the marsh abandoned factory and the mash desert) is full of walking flesh Yun must capture.
-To capture her enemies, Yun must stun them by means of hitting them with a bubble. Once they are stunned, they can be captured just touching them.
-Yun?s bubbles are quite resistant. You can hump on them and let them carry you upwards, which is sometimes the only way to progress in the level.
-Besides, there?s some points where Yun might need a key to keep going.
+
+CRÉDITOS / CREDITS
+Concept and Story: na_th_an, Anjuel, Zemman, Davidian
+Code, Music & GFX: na_th_an
+Cover Art: Kendroock
+Dedicado a / Dedicated to: Fugus y demonias.
 
 
 Story
-Every Autumn, in the boggy marsh near of the shores of Lake Poto?a (Province of Badajoz), one could witness the hatch of the eggs of the rare Romani Heron. 
-Some of the most famous ornithologists have described the scene as one of the most beautiful experieces they had experimented on a friday evening.
-Very rarely, for some strange reason, one of the eggs produces a red demon with a big hairdo instead of the expected gray and wrinked baby bird.
-This is how Yun came to life. It was already late, almost dusk, so she couldn?t see very well.
-As demons are usually born incredibly hungry, she began eating what she found ? and one of such things was a toothpaste tube somebody had left among the bushes.
-Such an accident, nevertheless, proved being really useful, as Yun gained the ability to produce bubbles from her mouth, and she soon learned how to capture all kinds of animals in them.
-Just a few months on, she founded her very own Japanese food reastaurant by the marsh.
-With her incredible ability, she could trap even the rarest specimen of fish and made the finest sushi in Badajoz.
-Everything was going great, until one night where, while hunting in the dark waters, she was about to trap a big and shiny orange fugu fish as it appeared from behind a bunch of seaweeds.
-The fish looked her in the eye and it was love at the first sight. Sadly, the fugu knew about Yun?s activities and got the chills so it escaped.
-Yun, make up for all the damage done, decided to change the nature of her business: instead of serving raw fish to the customers, he?d server raw customers to the fish.
 
-This game hides a great easter egg which you may discover. Try some key combinations and strange stuff, maybe you find it.
-If you can?t find it, we will reveal the secret when at least 10 people have sent in a screen cap showing the game ending screen.
-If you happen to find the secret yourself, we encourage you to share screen captures of it on twitter... But please don?t reveal how you did it!
+Every Autumn, in the boggy marsh near of the shores of Lake Potoña (Province of Badajoz), one could witness the hatch of the eggs of the rare Romani Heron. Some of the most famous ornithologists have described the scene as one of the most beautiful experieces they had experimented on a friday evening.
+Very rarely, for some strange reason, one of the eggs produces a red demon with a big hairdo instead of the expected gray and wrinked baby bird. This is how Yun came to life. It was already late, almost dusk, so she couldn’t see very well. As demons are usually born incredibly hungry, she began eating what she found – and one of such things was a toothpaste tube somebody had left among the bushes. Such an accident, nevertheless, proved being really useful, as Yun gained the ability to produce bubbles from her mouth, and she soon learned how to capture all kinds of animals in them. Just a few months on, she founded her very own Japanese food reastaurant by the marsh.
+With her incredible ability, she could trap even the rarest specimen of fish and made the finest sushi in Badajoz. Everything was going great, until one night where, while hunting in the dark waters, she was about to trap a big and shiny orange fugu fish as it appeared from behind a bunch of seaweeds. The fish looked her in the eye and it was love at the first sight. Sadly, the fugu knew about Yun’s activities and got the chills so it escaped.
+Yun, make up for all the damage done, decided to change the nature of her business: instead of serving raw fish to the customers, he’d server raw customers to the fish.
 
+How to play
+The main goal is helping yun capturing every single being to fill the pantry of her restaurant. The Big Marsh near Lake Potoña (province of Badajoz), formed by seven areas (the marsh waterfall, the marsh wood, the marsh abandoned factory, the mash desert, the beach of Pepinoni (next to the marsh), the wrecked pirate ship in the middle of the marsh and the marsh quarry) is full of walking flesh Yun must capture.
+To capture her enemies, Yun must stun them by means of hitting them with a bubble. Once they are stunned, they can be captured just touching them.
+Yun’s bubbles are quite resistant. You can hump on them and let them carry you upwards, which is sometimes the only way to progress in the level.
+Besides, there’s some points where Yun might need a key to keep going.
+
+Stars of Power
+There’s a hidden Star of Power in each level. Collect them all to unlock the hidden, final level.
+
+ 
 Controls
-D-PAD ? Movement
-A ? Jump
-B ? Bubble
-
-http://www.mojontwins.com/juegos_mojonos/yun/
+D-Pad moves Yun.
+A makes her jump.
+B shoots a bubble.
 
 
 ============================================
