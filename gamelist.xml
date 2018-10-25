@@ -167,7 +167,19 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>LALA THE MAGICAL</genre>
           <players>1</players>
-      </game>      
+      </game>
+       <game>
+          <path>./lightshields.nes</path>
+          <name>LIGHTSHIELDS</name>
+          <desc>A space-themed 2-player shooter game. Each player controls one spaceship and one light shield. Use your shield to deflect your opponent's bullets back at them, but don't let your own shield get in the way of your killshot!</desc>
+          <image>./lightshields.png</image>
+          <rating>0</rating>
+          <releasedate>20180201T000000</releasedate>
+          <developer>Zutano Games</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>LIGHTSHIELDS</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./lunarlimit.nes</path>
           <name>LUNAR LIMIT</name>
