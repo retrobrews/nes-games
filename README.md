@@ -1,13 +1,14 @@
 # nes-games
 Homebrew NES games:
 
- - 31 in 1 Real Game!<br />
+ - 31 IN 1 REAL GAME!<br />
  - ASSIMILATE<br />
  - BIG CITY SLIDING BLASTER<br />
  - BLADE BUSTER<br />
  - BRONY BLASTER<br />
  - DOUBLE ACTION BLASTER GUYS<br />
  - DRIAR<br />
+ - F-FF<br />
  - FLAPPY BIRD<br />
  - INDIVISIBLE ON NES<br />
  - INVADERS MUST DIE<br />
@@ -27,6 +28,7 @@ Homebrew NES games:
  - SGT. HELMET - TRAINING DAY<br />
  - SIR ADABOL REMASTERED<br />
  - SPACEY MCRACEY<br />
+ - STAR EVIL<br />
  - SUPER PAKPAK<br />
  - THE LEGENDS OF OWLIA<br />
  - THE WIT.NES<br />
