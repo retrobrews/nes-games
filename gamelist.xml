@@ -84,6 +84,18 @@
           <genre>DRIAR</genre>
           <players>1</players>
       </game>
+       <game>
+          <path>./fff.nes</path>
+          <name>F-FF</name>
+          <desc>A basic racing game. Hit select on the menu to get 2p split screen. Controls: D-Pad: Steer; B: Accelerate; A: Boost; Start: Start Game; Select: Enable second player (on menu) [v1]</desc>
+          <image>./fff.png</image>
+          <rating>0</rating>
+          <releasedate>20180129T000000</releasedate>
+          <developer>Pubby</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>F-FF</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./flappybird.nes</path>
           <name>FLAPPY BIRD</name>
@@ -335,6 +347,18 @@
           <publisher>HOMEBREW ROM</publisher>
           <genre>SPACEY MCRACEY</genre>
           <players>1-4</players>
+       </game>
+       <game>
+          <path>./starevil.nes</path>
+          <name>STAR EVIL</name>
+          <desc>A simple remake of the A52 game. I tried to make it faster paced and less glitchy, while still keeping some the original charm. Controls: D-Pad: Move; A/B: Shoot; Start: Start Game [v2]</desc>
+          <image>./starevil.png</image>
+          <rating>0</rating>
+          <releasedate>20180129T000000</releasedate>
+          <developer>Pubby</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>STAR EVIL</genre>
+          <players>1</players>
        </game>
         <game>
           <path>./superpakpak.nes</path>
