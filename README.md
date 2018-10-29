@@ -30,6 +30,7 @@ Homebrew NES games:
  - SPACEY MCRACEY<br />
  - STAR EVIL<br />
  - SUPER PAKPAK<br />
+ - SUPER TILT BRO.<br />
  - THE LEGENDS OF OWLIA<br />
  - THE WIT.NES<br />
  - THWAITE<br />
