@@ -372,6 +372,18 @@
           <genre>SUPER PAKPAK</genre>
           <players>2-4</players>
       </game>
+       <game>
+          <path>./super-tilt-bro.nes</path>
+          <name>SUPER TILT BRO.</name>
+          <desc>Super Tilt Bro is a demake of the Super Smash Bros. series compatible with the good old Nintendo Entertainment System from the 1980s. You and a friend take control of a clone of Sinbad, the badass mascot of Ogre3D. Two fellows, one platform:  you will have to fight to throw the other out. [v1]</desc>
+          <image>./super-tilt-bro.png</image>
+          <rating>0</rating>
+          <releasedate>20181027T000000</releasedate>
+          <developer>Sylvain Gadrat (sgadrat)</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>SUPER TILT BRO.</genre>
+          <players>1-2</players>
+       </game>
         <game>
           <path>./owlia.nes</path>
           <name>THE LEGENDS OF OWLIA</name>
