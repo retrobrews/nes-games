@@ -85,6 +85,18 @@
           <players>1</players>
       </game>
        <game>
+          <path>./falling.nes</path>
+          <name>FALLING</name>
+          <desc>collect coins and avoid obstacles during falling from the sky!</desc>
+          <image>./falling.png</image>
+          <rating>0</rating>
+          <releasedate>20180107T000000</releasedate>
+          <developer>Tragicmuffin</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>FALLING</genre>
+          <players>1</players>
+       </game>
+       <game>
           <path>./fff.nes</path>
           <name>F-FF</name>
           <desc>A basic racing game. Hit select on the menu to get 2p split screen. Controls: D-Pad: Steer; B: Accelerate; A: Boost; Start: Start Game; Select: Enable second player (on menu) [v1]</desc>
