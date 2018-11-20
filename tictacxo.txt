@@ -1,0 +1,8 @@
+Tic Tac XO
+by SlyDog Studios (Robert L Bryant)
+Release Date	01 January 2008
+
+Tic Tac Toe game for NES with extras and power ups!
+
+https://slydogstudios.org/
+https://www.youtube.com/watch?v=nLiVDJHfRFc
