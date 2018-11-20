@@ -1,0 +1,9 @@
+Debris Dodger
+by Sly Dog Studios
+
+Debris orbiting the Earth has hit critical levels.
+Guide your satellite launcher through the different layers of the atmosphere and successfully get to the exosphere to win the game.
+Use the d-pad to move the launcher. Before the game starts, use the Select button to switch back-and-forth between Normal and Hard mode.
+Hard mode includes three clouds that obstruct your view.
+
+https://slydogstudios.org/
