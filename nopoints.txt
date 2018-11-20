@@ -1,0 +1,10 @@
+No Points
+by Sly Dog Studios
+
+No Points! That is the goal of this game that takes place from the perspective of a driver in the game of For Points. 
+Starting off with 99 points, the chickens trying to cross the road lose a point for each one that gets hit.
+Hit your 100th chicken, and you win the game, successfully denying the chickens their points! Be careful though.
+If you miss more than 9 chickens, the game is over.
+Use Left and Right on the Directional Pad to move your car, and the Start button to begin the game, or reset it after the game is over.
+
+https://slydogstudios.org/
