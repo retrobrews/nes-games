@@ -68,7 +68,7 @@ Homebrew NES games:
  - <b>THE LEGENDS OF OWLIA</b> by Gradual Games
  - <b>THE MAD WIZARD: A CANDELABRA CHRONICLE</b> by SlyDog Studios
  - <b>THE ONE WITH THE WALLS</b> by SlyDog Studios
- - <b>The Wit.nes</b> by Dustmop
+ - <b>THE WIT.NES</b> by Dustmop
  - <b>THWAITE</b> by Damian Yerrick
  - <b>TIC TAC TWO P</b> by SlyDog Studios
  - <b>TIC TAC XO</b> by SlyDog Studios
