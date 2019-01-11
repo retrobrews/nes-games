@@ -108,6 +108,18 @@
           <genre>BOMB ARRAY</genre>
           <players>1</players>
       </game>
+       <game>
+          <path>./bootee.nes</path>
+          <name>BOOTEE</name>
+          <desc>The Three Legendary Stars of Power! OF POWERRRR!!! - Everybody shouted. Because those stars were so powerful that you only could talk about them shouting. And Cheril heard. And not knowing exactly how, Cheril found herself enclosed up to her armpits in a huge boot with a thick sole.</desc>
+          <image>./bootee.png</image>
+          <rating>0</rating>
+          <releasedate>20180501T000000</releasedate>
+          <developer>Mojon Twins</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>BOOTEE</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./bronyblaster.nes</path>
           <name>BRONY BLASTER</name>
@@ -120,6 +132,18 @@
           <genre>BRONY BLASTER</genre>
           <players>1</players>
       </game>
+       <game>
+          <path>./cheril-the-goddess.nes</path>
+          <name>CHERIL THE GODDESS</name>
+          <desc>Cheril must obtain the Skull of Podewwwr and use its power to become a goddess. In order to do so, she must open three gates and unlock a magic column. The gates are magically locked by the temples of Stone, Paper and Scissors. You must break the seals using the proper medallion in each temple, which you have to find. The magic column is unlocked using a key in the keyhole located next to the column. Cheril can get three magic charges from the pedestals with two hearts engraved. He can use such charges to gain super powers for a short while (being able to fly around and becoming invin-cible) or to activate teleporters which will take her to the center of the map. You can open the gates and the magic column in any order. You can also take a look at a map telling you where everything is located. You can only carry one object at a time. Controls:	D-pad: Movement; Select: Continue (title screen) / Map (ingame); Start: Starts the game from the beginning (title screen) / Pause; B: Interact / use / action, etc.; A: Jump; B + UP: Activate super powers.</desc>
+          <image>./cheril-the-goddess.png</image>
+          <rating>0</rating>
+          <releasedate>20170202T000000</releasedate>
+          <developer>Mojon Twins</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>CHERIL THE GODDESS</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./cl1k.nes</path>
           <name>CL1K</name>
@@ -420,6 +444,18 @@
           <genre>MIDNIGHT JOGGER</genre>
           <players>1</players>
       </game>
+       <game>
+          <path>./miedow.nes</path>
+          <name>MIEDOW (CHERIL'S NIGHTMARES)</name>
+          <desc>After walking into the shrine, Cheril falls asleep. In her dreams, a voice commands her to find her daughters.. You can push some blocks around, as well as statues. Move statues to pedestals to proceed. Find keys to open locks. Shoot orbs to light them. Controls: D-Pad: Move around; A: Jump; B: Shoot/Push</desc>
+          <image>./miedow.png</image>
+          <rating>0</rating>
+          <releasedate>20180102T000000</releasedate>
+          <developer>Mojon Twins</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>MIEDOW (CHERIL'S NIGHTMARES) [v.1.0]</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./mineshaft.nes</path>
           <name>MINESHAFT</name>
@@ -444,6 +480,18 @@
           <genre>MOUSER II</genre>
           <players>1</players>
       </game>
+       <game>
+          <path>./nesertbus.nes</path>
+          <name>NESERTBUS</name>
+          <desc>A NES demake of Desertbus, or at least as close as I can get. NESertBus features the familiar Desert Bus driver seat view but with classic sidescrolling gameplay. Includes Desert Bus staples such as the bus stop, the bug splat, and the unending grind along a straight road with a slight drift to the right.</desc>
+          <image>./nesertbus.png</image>
+          <rating>0</rating>
+          <releasedate>20171123T000000</releasedate>
+          <developer>Redslash12</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>NESERTBUS</genre>
+          <players>1</players>
+       </game>
        <game>
           <path>./nintencattheparody.nes</path>
           <name>NINTENCAT: THE PARODY</name>
