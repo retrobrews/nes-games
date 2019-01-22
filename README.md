@@ -14,7 +14,7 @@ Homebrew NES games:
  - <b>Brony Blaster</b> by FG Software
  - <b>Cheril The Goddess</b> by Mojon Twins
  - <b>Cl1k</b> by SlyDog Studios
- - <b>Concentration Room 0.02A</b> by Damian Yerrick (pinobatch)
+ - <b>Concentration Room</b> by Damian Yerrick (pinobatch)
  - <b>Debris Dodger</b> by SlyDog Studios
  - <b>Double Action Blaster Guys</b> by NovaSquirrel
  - <b>Driar</b> by Adolfsson, Eriksson
