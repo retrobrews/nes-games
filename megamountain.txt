@@ -1,0 +1,33 @@
+MegaMountainNES (mega_mountain.nes)
+by AdrianMakesGames, Damian Yerrick
+24 Feb 2018
+
+https://adrianmakesgames.itch.io/mega-mountain-nes
+a NES port of Mega Mountain
+original mega mountain description, courtesy of @sylviefluff:
+
+    Your best friend has been kidnapped and taken to the top of the Mega Mountain. You must save him.
+
+features:
+
+    a new NES game!
+    easy and hard modes!
+    2 endings to discover!
+    a platformer without jumping!
+    not a port of cat planet!
+    play using any available nes emulator (except nesticle) or on a real cart! (carts coming soon)
+    source code available with your download or on GitHub!
+
+credits:
+
+a game by @sylviefluff. NES/FC port by Adrian Makes Games. Music & sound engine by @PinoBatch.
+
+© 2018 Adrian Makes Games.
+join the Mega Mountain Discord:
+
+https://discord.gg/yQHGvWe
+
+
+
+https://github.com/adrian0901/MegaMountainNES
+https://github.com/pinobatch/MegaMountainNES
