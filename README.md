@@ -18,7 +18,7 @@ Homebrew NES games:
  - <b>Debris Dodger</b> by SlyDog Studios
  - <b>Double Action Blaster Guys</b> by NovaSquirrel
  - <b>Driar</b> by Adolfsson, Eriksson
- - <b>Falling</b> by Tragicmuffin (Michael Dong)
+ - <b>Falling</b> by tragicmuffin
  - <b>F-FF</b> by Pubby
  - <b>Filthy Kitchen</b> by Dustmop
  - <b>Flappy Bird</b> by Nioreh
