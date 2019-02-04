@@ -1,7 +1,7 @@
 # nes-games
 Homebrew NES games:
 
-  - <b>31 In 1 Real Game!</b> by Mojon Twins
+ - <b>31 In 1 Real Game!</b> by Mojon Twins
  - <b>3-In-1 2P Pak</b> by SlyDog Studios
  - <b>Ambushed</b> by SlyDog Studios
  - <b>Assimilate</b> by Nessylum Games
@@ -22,6 +22,7 @@ Homebrew NES games:
  - <b>Filthy Kitchen</b> by Dustmop
  - <b>Flappy Bird</b> by Nioreh
  - <b>Flappy Block</b> by SlyDog Studios
+ - <b>Flappy Jack</b> by Dougeff
  - <b>For Points</b> by SlyDog Studios
  - <b>GSM</b> by SlyDog Studios
  - <b>Indivisible On NES</b> by KasumiDirect
@@ -56,6 +57,7 @@ Homebrew NES games:
  - <b>Rise Of Amondus</b> by SlyDog Studios
  - <b>Robo-Ninja Climb</b> by Nathan Tolbert
  - <b>RobotFindsKitten</b> by Damian Yerrick (pinobatch)
+ - <b>Rock Paper Scissors Lizard Sbock</b> by Dougeff
  - <b>Russian Roulette [Damian]</b> by Damian Yerrick (pinobatch)
  - <b>Sgt. Helmet - Training Day</b> by Mojon Twins
  - <b>Simone Says</b> by SlyDog Studios
@@ -65,6 +67,7 @@ Homebrew NES games:
  - <b>Star Evil</b> by Pubby
  - <b>Super Pakpak</b> by AOH Games
  - <b>Super Tilt Bro.</b> by Sylvain Gadrat
+ - <b>Super Uwol</b> by Mojon Twins
  - <b>That's Whack!</b> by SlyDog Studios
  - <b>The Invasion</b> by SlyDog Studios
  - <b>The Legends Of Owlia</b> by Gradual Games
