@@ -252,6 +252,18 @@
           <genre>Flappy Block</genre>
           <players>1</players>
       </game>
+       <game>
+          <path>./flappyjack.nes</path>
+          <name>Flappy Jack</name>
+          <desc>You are Jack, working at Flappy's Diner. Try to catch all the pancakes thrown at you for a high score. Controls:	Left/Right: Move left and right. Select: On title screen, change the starting level. Start: Starts the game, pauses while in game. B or A: Run a little faster.</desc>
+          <image>./flappyjack.png</image>
+          <rating>0</rating>
+          <releasedate>20170202T000000</releasedate>
+          <developer>Dougeff</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Flappy Jack [14]</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./forpoints.nes</path>
           <name>For Points</name>
@@ -660,6 +672,18 @@
           <genre>RobotFindsKitten [v.0.10.122]</genre>
           <players>1</players>
        </game>
+       <game>
+          <path>./rpsls.nes</path>
+          <name>Rock Paper Scissors Lizard Sbock</name>
+          <desc>A modern twist on the classic Rock, Paper, Scissors. Adding Lizard and Sbock makes the game faster paced and less predictable.</desc>
+          <image>./rpsls.png</image>
+          <rating>0</rating>
+          <releasedate>20170202T000000</releasedate>
+          <developer>Dougeff</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Rock Paper Scissors Lizard Sbock [3]</genre>
+          <players>1</players>
+       </game>
         <game>
           <path>./roulette.nes</path>
           <name>Russian Roulette [Damian]</name>
@@ -766,6 +790,18 @@
           <developer>Sylvain Gadrat (sgadrat)</developer>
           <publisher>HOMEBREW ROM</publisher>
           <genre>Super Tilt Bro.</genre>
+          <players>1-2</players>
+       </game>
+       <game>
+          <path>./superuwol.nes</path>
+          <name>Super Uwol</name>
+          <desc>Uwol enjoys a quiet retirement at his cozy house in the beach of Pepinoni (province of Badajoz), so he doesn't realize that somebody has stolen all his money from the bank. Luckly, his good ol' friend Meemaid, the evil sorceress-turned-super heroine learned about the incident as she was using the ATM in the very moment the bank was being robbed. That's why they decide to head back over to the new and refurnished Storm Palace to regain the lost fortune. But it won't be easy... the new basement is deep and full of dark corners. Besides, the intrincate disposition of rooms makes it easy to get lost and walk in circles. And that's what happened: Uwol and Meemaid got lost and reached in the deepest side of the labyrinth - where Vampy, Franky, Fanty and Wolfy, plus the death murderer and the children's favourite Cthulhy dwell. So you may guess it won't be an easy task to escape with the money! How to play: 1. 1 Player: Control Uwol and help him to reach his goal! 2. 2 Players: Call a friend and control both Uwol and Meemaid to finish levels in cooperative mode! 3. Vs. Mode: Uwol and Meemaid compete for the coins. The winner in each level will score a point. In modes 1 and 2, two exit pads will appear at the bottom of the screen when every coin has been collected, so you can choose your path across the pyramid. Stand over either of them and press DOWN to activate. If you are playing the co-op 2 players mode, either Uwol or Meemaid can choose the path. When the time is up, Fanty will appear. Avoid it at all costs! In two player modes it will pursue the player who has collected the most coins. If a baddie touches you, you will lose your clothes. You can regain them by collecting a t-shirt which will appear somewhere in the screen. In co-op 2 players mode, an already dressed player can't pick up a new t-shirt, and if the two players lose their clothes two t-shirts will appear. In vs. mode, any player can get the t-shirt even if they don't need it to harm the opponent. Controls: D-PAD: movement; A: Jump; DOWN: select door</desc>
+          <image>./superuwol.png</image>
+          <rating>0</rating>
+          <releasedate>20161231T000000</releasedate>
+          <developer>Mojon Twins</developer>
+          <publisher>HOMEBREW ROM</publisher>
+          <genre>Super Uwol</genre>
           <players>1-2</players>
        </game>
         <game>
