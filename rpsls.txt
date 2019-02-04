@@ -1,0 +1,36 @@
+Name: 		Rock Paper Scissors Lizard Sbock  (Rock3.nes)
+*note, purposely misspelled Spock, to make legally distinct,
+ although, pronounced the same as the famous character.
+
+Submitted By: 	dougeff
+
+Category:	Category 1 - NROM
+
+Description:  	A modern twist on the classic Rock, Paper, Scissors.
+		Adding Lizard and Sbock makes the game faster paced
+		and less predictable.
+
+Controls:	Left: Rock
+		Up: Paper
+		Right: Scissors
+		B: Lizard
+		A: Sbock
+		Start: Begin the Round
+
+*note: on the Options Screen, Up/Down/Left/Right (controller 1 only) switch
+ between various options.
+
+
+Rom info:	Mapper NROM
+		Filesize 40k (40976)
+		Special peripherals Needed X
+		
+
+Credits:	Doug Fraker - Programming, Design, and Music
+		(note - original hand game created by Sam Kass)
+
+Other:		1 player or 2 player modes.
+		Classic Rock Paper Scissors, vs. Rock Paper Scissors Lizard Sbock Modes.
+
+		Original game made famous in a 'Big Bang Theory' episode.
+

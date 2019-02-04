@@ -1,0 +1,29 @@
+Name: 		Flappy Jack (flappy14.nes)
+
+Submitted By: 	dougeff
+
+Category:	Category 1 - NROM
+
+Description:  	You are Jack, working at Flappy's Diner. Try to catch all the 
+		pancakes thrown at you for a high score.
+
+Controls:	Left/Right: Move left and right.
+		Select: On title screen, change the starting level.
+		Start: Starts the game, pauses while in game.
+		B or A: Run a little faster.
+
+Rom info:	Mapper NROM
+		Filesize 40k (40976)
+		Special peripherals Needed X
+		
+
+Credits:	Doug Fraker - Programming, Design, and Music
+
+Other:		The file should be called 'Flappy14.nes'.
+		Holding A+B+Start on the title screen will show the
+		'good ending', which is normally seen by collecting
+		100,000+ points.
+		Only 1 player mode, using the first controller slot.
+
+http://nesdevcompo.nintendoage.com/contest16/
+http://nesdevcompo.nintendoage.com/files/2016/Category1/Flappy_Jack.zip
