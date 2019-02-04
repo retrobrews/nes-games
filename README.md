@@ -8,7 +8,6 @@ Homebrew NES games:
  - <b>Babel Blox</b> by SlyDog Studios
  - <b>Big City Sliding Blaster</b> by NovaSquirrel
  - <b>Black Box Challenge</b> by SlyDog Studios
- - <b>Blade Buster</b> by NovaSquirrel
  - <b>Bomb Array</b> by SlyDog Studios
  - <b>Bootèe</b> by Mojon Twins
  - <b>Brony Blaster</b> by FG Software
