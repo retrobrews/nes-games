@@ -85,18 +85,6 @@
           <players>1</players>
        </game>
         <game>
-          <path>./bladebuster.nes</path>
-          <name>Blade Buster</name>
-          <desc>Blade Buster is a SHMUP for the Nintendo Entertainment System. Gain as many points as possible in two minutes!</desc>
-          <image>./bladebuster.png</image>
-          <rating>0</rating>
-          <releasedate>20100918T000000</releasedate>
-          <developer>NovaSquirrel</developer>
-          <publisher>HOMEBREW ROM</publisher>
-          <genre>Blade Buster</genre>
-          <players>1</players>
-      </game>
-        <game>
           <path>./bombarray.nes</path>
           <name>Bomb Array</name>
           <desc>You have been called in to level various buildings that are harboring ninja terrorists! Using your plane and bomb-aiming skill, drop bombs until you finish them off, then move to the next area.</desc>
